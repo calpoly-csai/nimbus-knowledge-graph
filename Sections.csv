@@ -1,0 +1,1246 @@
+id_sections,section_name,instructor,alias,title,phone,office,type,days,start,end,location,department
+1,ME 263_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,lecture,T,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+2,ME 400_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+3,ME 599_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+4,ME 494_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+5,ME 495_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+6,ME 493_01,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+7,ENGR 461_02,"Widmann, Jim",jwidmann,Dept Chair - Mechanical Eng,+1.805.756.1334,013-0254,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+8,ME 420_09,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+9,ME 420_10,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+10,ME 599_31,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+11,ME 420_11,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+12,ME 400_31,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+13,ME 439_01,"Belanger, Jacques",jjbelang,Instr Fac AY,+1.805.756.1378,013-0261,lecture,MTWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+14,ME 422_02,"Birdsong, Charles",cbirdson,Instr Fac AY,+1.805.756.1261,013-0238,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+15,ME 350_02,"Chen, John",jchen24,Instr Fac AY,+1.805.756.2144,013-0226,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+16,ME 350_01,"Chen, John",jchen24,Instr Fac AY,+1.805.756.2144,013-0226,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+17,ME 329_09,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+18,ME 329_10,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+19,ME 599_30,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+20,ME P329 COP_09,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+21,ME P329 COP_11,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+22,ME 329_11,"Cooper, Lauren",lcoope06,Instr Fac AY,+1.805.756.1063,013-0257,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+23,ME P328 COP_03,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lab,M,12:10 PM,03:00 PM,NA,CENG-Mechanical Engineering
+24,ME P328 COP_02,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lecture,MWF,11:10 AM,12:00 PM,NA,CENG-Mechanical Engineering
+25,ME 328_05,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+26,ME 328_02,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+27,ME 328_01,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+28,ME 328_03,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lab,M,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+29,ME 328_04,"Davol, Andrew",adavol,Instr Fac AY,+1.805.756.1388,004-0006,lab,M,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+30,ME 599_28,"Elghandour, Eltahry",eelghand,Instr Fac AY,+1.805.756.1728,013-0248,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+31,ME 412_01,"Elghandour, Eltahry",eelghand,Instr Fac AY,+1.805.756.1728,013-0248,lecture,MW,04:10 PM,05:30 PM,999,CENG-Mechanical Engineering
+32,ME 412_02,"Elghandour, Eltahry",eelghand,Instr Fac AY,+1.805.756.1728,013-0248,lab,W,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+33,ME 430_07,"Elghandour, Eltahry",eelghand,Instr Fac AY,+1.805.756.1728,013-0248,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+34,ME 412_03,"Elghandour, Eltahry",eelghand,Instr Fac AY,+1.805.756.1728,013-0248,lab,R,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+35,FPE S503 CSS /3_02,"Emberley, Richard",remberle,Instr Fac AY,+1.805.756.7055,013-0234,lecture,MW,04:10 PM,06:00 PM,NA,CENG-Mechanical Engineering
+36,FPE S522 CSS /4_02,"Emberley, Richard",remberle,Instr Fac AY,+1.805.756.7055,013-0234,lecture,TR,04:10 PM,06:00 PM,NA,CENG-Mechanical Engineering
+37,FPE S599 CSS /3_02,"Emberley, Richard",remberle,Instr Fac AY,+1.805.756.7055,013-0234,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+38,ME 350_03,"Emberley, Richard",remberle,Instr Fac AY,+1.805.756.7055,013-0234,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Mechanical Engineering
+39,ME 350_04,"Emberley, Richard",remberle,Instr Fac AY,+1.805.756.7055,013-0234,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+40,ME 318_15,"Espinoza-Wade, Eric",erwade,Instr Fac AY,+1.805.756.7902,013-0256,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+41,ME 318_14,"Espinoza-Wade, Eric",erwade,Instr Fac AY,+1.805.756.7902,013-0256,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+42,ME 318_13,"Espinoza-Wade, Eric",erwade,Instr Fac AY,+1.805.756.7902,013-0256,lab,F,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+43,ME 264_01,"Kean, Andrew",akean,Instr Fac AY,+1.805.756.1236,013-0249,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+44,ME 415_02,"Kean, Andrew",akean,Instr Fac AY,+1.805.756.1236,013-0249,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+45,ME 415_01,"Kean, Andrew",akean,Instr Fac AY,+1.805.756.1236,013-0249,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+46,ME 402_03,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+47,ME 402_02,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+48,ME 599_05,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+49,ME 400_05,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+50,ME 212_05,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+51,ME 402_01,"Klisch, Stephen",sklisch,Instr Fac AY,+1.805.756.1308,192-0123,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+52,ME 488_01,"Lemieux, Patrick",plemieux,Instr Fac AY,+1.805.756.5583,013-0230,lecture,MTWF,04:10 PM,05:00 PM,999,CENG-Mechanical Engineering
+53,ME 599_06,"Lemieux, Patrick",plemieux,Instr Fac AY,+1.805.756.5583,013-0230,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+54,ME 347_03,"Lemieux, Patrick",plemieux,Instr Fac AY,+1.805.756.5583,013-0230,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+55,ME 347_04,"Lemieux, Patrick",plemieux,Instr Fac AY,+1.805.756.5583,013-0230,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+56,ME 350_11,"Locascio, James",jlocasci,Instr Fac AY,+1.805.756.2375,013-0229,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+57,ME 350_05,"Locascio, James",jlocasci,Instr Fac AY,+1.805.756.2375,013-0229,lab,M,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+58,ME 350_08,"Locascio, James",jlocasci,Instr Fac AY,+1.805.756.2375,013-0229,lab,W,06:10 PM,09:00 PM,999,CENG-Mechanical Engineering
+59,ME 350_07,"Locascio, James",jlocasci,Instr Fac AY,+1.805.756.2375,013-0229,lab,W,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+60,ME 234_02,"Lutz, Benjamin",blutz,Instr Fac AY,+1.805.756.1285,013-0221,lecture,TR,01:40 PM,03:00 PM,999,CENG-Mechanical Engineering
+61,ME 234_01,"Lutz, Benjamin",blutz,Instr Fac AY,+1.805.756.1285,013-0221,lecture,TR,12:10 PM,01:30 PM,999,CENG-Mechanical Engineering
+62,ME 329_18,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+63,ME 599_03,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+64,ME 329_13,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+65,ME 329_17,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+66,ME 329_14,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+67,ME 329_12,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+68,ME 329_16,"Mackin, Thomas",tmackin,Instr Fac AY,+1.805.756.1406,116-0200,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+69,ME 302_06,"Maddren, Jesse",jmaddren,Instr Fac AY,+1.805.756.1386,092M-A108,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Mechanical Engineering
+70,ME 302_02,"Maddren, Jesse",jmaddren,Instr Fac AY,+1.805.756.1386,092M-A108,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+71,ME 302_01,"Maddren, Jesse",jmaddren,Instr Fac AY,+1.805.756.1386,092M-A108,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+72,ME 302_05,"Maddren, Jesse",jmaddren,Instr Fac AY,+1.805.756.1386,092M-A108,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+73,ME 404 (2)_72,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lab,F,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+74,ME 404 (2)_70,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+75,CE 404 (2)_70,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+76,CE 404 (2)_71,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+77,ME 599_29,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+78,ME 211_01,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+79,ME 404 (2)_71,"Mahadev, Sthanu",smahadev,Instr Fac AY,+1.805.756.1370,013-0223,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+80,NA,"Nadel, Jeff",jnadel,Network Analyst 12 Mo,+1.805.756.2666,007-0018,NA,NA,NA,NA,NA,CENG-Information Technology
+81,ME 302_04,"Mayer, Hans",hmayer,Instr Fac AY,+1.805.756.7901,013-0244,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+82,ME 599_08,"Mayer, Hans",hmayer,Instr Fac AY,+1.805.756.7901,013-0244,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+83,ME 350_06,"Mayer, Hans",hmayer,Instr Fac AY,+1.805.756.7901,013-0244,lab,R,06:10 PM,09:00 PM,999,CENG-Mechanical Engineering
+84,ME 400_08,"Mayer, Hans",hmayer,Instr Fac AY,+1.805.756.7901,013-0244,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+85,ME 302_03,"Mayer, Hans",hmayer,Instr Fac AY,+1.805.756.7901,013-0244,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+86,ME 329 (1)_03,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,F,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+87,ME 329_01,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+88,ME 599_12,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+89,ME 329 (1)_02,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,W,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+90,ME 329_05,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+91,ME 329 (1)_06,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,W,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+92,ME 329 (1)_08,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+93,ME 329 (1)_04,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+94,ME 329 (1)_07,"Mello, Joseph",jdmello,Instr Fac AY,+1.805.756.1356,192-0126,lab,F,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+95,ME 506_02,"Murray, Bill",wrmurray,Instr Fac AY,+1.805.756.2414,013-0250,lecture,MTWF,03:10 PM,04:00 PM,999,CENG-Mechanical Engineering
+96,ME 506_01,"Murray, Bill",wrmurray,Instr Fac AY,+1.805.756.2414,013-0250,lecture,MTWF,02:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+97,ME 212_02,"Murray, Bill",wrmurray,Instr Fac AY,+1.805.756.2414,013-0250,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+98,ME 423_03,"Niku, Saeed",sniku,Instr Fac AY,+1.805.756.1376,092M-B104,lab,T,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+99,ME 423_01,"Niku, Saeed",sniku,Instr Fac AY,+1.805.756.1376,092M-B104,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+100,ME 423_02,"Niku, Saeed",sniku,Instr Fac AY,+1.805.756.1376,092M-B104,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+101,ME 318_09,"Noori, Mohammad",mnoori,Instr Fac AY,+1.805.756.5581,041A-0126,lab,W,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+102,ME 318_05,"Noori, Mohammad",mnoori,Instr Fac AY,+1.805.756.5581,041A-0126,lab,M,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+103,ME 599_18,"Noori, Mohammad",mnoori,Instr Fac AY,+1.805.756.5581,041A-0126,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+104,ME 318_01,"Noori, Mohammad",mnoori,Instr Fac AY,+1.805.756.5581,041A-0126,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+105,ME 318_02,"Noori, Mohammad",mnoori,Instr Fac AY,+1.805.756.5581,041A-0126,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+106,ME 420_05,"Pascual, Christopher",cpascual,Instr Fac AY,+1.805.756.1306,192-0125,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+107,ME 420_01,"Pascual, Christopher",cpascual,Instr Fac AY,+1.805.756.1306,192-0125,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+108,ME 457_02,"Mott, Jennifer",jpeuker,Instr Fac AY,+1.805.756.7904,013-0242,lab,M,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+109,CPE 462_28,"Mott, Jennifer",jpeuker,Instr Fac AY,+1.805.756.7904,013-0242,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+110,ME 455_02,"Peuker, Steffen",speuker,Instr Fac AY,+1.805.756.1353,013-0231,lab,T,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+111,ME 453_01,"Peuker, Steffen",speuker,Instr Fac AY,+1.805.756.1353,013-0231,activity,R,04:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+112,ME 455_01,"Peuker, Steffen",speuker,Instr Fac AY,+1.805.756.1353,013-0231,lecture,MW,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+113,ME 457_01,"Peuker, Steffen",speuker,Instr Fac AY,+1.805.756.1353,013-0231,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+114,ME 460 /2_01,"Peuker, Steffen",speuker,Instr Fac AY,+1.805.756.1353,013-0231,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+115,ME 517_01,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+116,ME 517_02,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+117,ME P422 COP_03,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lecture,MWF,10:10 AM,11:00 AM,NA,CENG-Mechanical Engineering
+118,ME P422 COP_07,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+119,ME 422_05,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+120,ME 422_07,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+121,ME 422_03,"Porumamilla, Hemanth",hporumam,Instr Fac AY,+1.805.756.1359,013-0232,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+122,ME 234_03,"Schuster, Peter",pschuste,Instr Fac AY,+1.805.756.2976,013-0236,lecture,TR,03:10 PM,04:30 PM,999,CENG-Mechanical Engineering
+123,ME P430 COP_02,"Schuster, Peter",pschuste,Instr Fac AY,+1.805.756.2976,013-0236,lab,TR,12:10 PM,03:00 PM,NA,CENG-Mechanical Engineering
+124,ME 430_01,"Schuster, Peter",pschuste,Instr Fac AY,+1.805.756.2976,013-0236,lab,TR,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+125,ME 430_02,"Schuster, Peter",pschuste,Instr Fac AY,+1.805.756.2976,013-0236,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+126,ME 234_04,"Schuster, Peter",pschuste,Instr Fac AY,+1.805.756.2976,013-0236,lecture,TR,04:40 PM,06:00 PM,999,CENG-Mechanical Engineering
+127,HNRS 299_04,"Self, Brian",bself,Instr Fac AY,+1.805.756.7993,013-0253,seminar,M,03:10 PM,04:00 PM,999,CENG-Mechanical Engineering
+128,ME P430 COP_06,"Self, Brian",bself,Instr Fac AY,+1.805.756.7993,013-0253,lab,TR,08:10 AM,11:00 AM,NA,CENG-Mechanical Engineering
+129,ME 212_06,"Self, Brian",bself,Instr Fac AY,+1.805.756.7993,013-0253,lecture,TR,12:10 PM,01:30 PM,999,CENG-Mechanical Engineering
+130,ME 430_06,"Self, Brian",bself,Instr Fac AY,+1.805.756.7993,013-0253,lab,TR,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+131,ME 554_02,"Shollenberger, Kim",kshollen,Instr Fac AY,+1.805.756.1379,013-0251,lab,F,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+132,ME 554_01,"Shollenberger, Kim",kshollen,Instr Fac AY,+1.805.756.1379,013-0251,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+133,ME P347 COP_01,"Shollenberger, Kim",kshollen,Instr Fac AY,+1.805.756.1379,013-0251,lecture,MWF,08:10 AM,09:00 AM,NA,CENG-Mechanical Engineering
+134,ME 347_02,"Shollenberger, Kim",kshollen,Instr Fac AY,+1.805.756.1379,013-0251,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+135,ME 347_01,"Shollenberger, Kim",kshollen,Instr Fac AY,+1.805.756.1379,013-0251,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+136,ME 236_02,"Thorncroft, Glen",gthorncr,Instr Fac AY,+1.805.756.2118,013-0228,lecture,MW,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+137,ME 599_22,"Thorncroft, Glen",gthorncr,Instr Fac AY,+1.805.756.2118,013-0228,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+138,ME 236_03,"Thorncroft, Glen",gthorncr,Instr Fac AY,+1.805.756.2118,013-0228,lecture,MW,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+139,ME 236_12,"Thorncroft, Glen",gthorncr,Instr Fac AY,+1.805.756.2118,013-0228,lecture,MW,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+140,ME 236_01,"Thorncroft, Glen",gthorncr,Instr Fac AY,+1.805.756.2118,013-0228,lecture,MW,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+141,ME 303_02,"Westphal, Russell",rvwestph,Instr Fac AY,+1.805.756.1336,192-0122,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+142,ME 303_01,"Westphal, Russell",rvwestph,Instr Fac AY,+1.805.756.1336,192-0122,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+143,ME 599_27,"Westphal, Russell",rvwestph,Instr Fac AY,+1.805.756.1336,192-0122,independent,NA,NA,NA,NA,CENG-Mechanical Engineering
+144,ME 303_03,"Westphal, Russell",rvwestph,Instr Fac AY,+1.805.756.1336,192-0122,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+145,ME 326_01,"Wu, Xi",xwu,Instr Fac AY,+1.805.756.5214,013-0235,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+146,ME P326 COP_01,"Wu, Xi",xwu,Instr Fac AY,+1.805.756.5214,013-0235,lecture,MWF,09:10 AM,10:00 AM,NA,CENG-Mechanical Engineering
+147,ME P326 COP_02,"Wu, Xi",xwu,Instr Fac AY,+1.805.756.5214,013-0235,lecture,MWF,10:10 AM,11:00 AM,NA,CENG-Mechanical Engineering
+148,ME 326_02,"Wu, Xi",xwu,Instr Fac AY,+1.805.756.5214,013-0235,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+149,ME 326_03,"Wu, Xi",xwu,Instr Fac AY,+1.805.756.5214,013-0235,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+150,ME 422_06,"Xing, Siyuan",sixing,Instr Fac AY,+1.805.756.7903,013-0233,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+151,ME 422_04,"Xing, Siyuan",sixing,Instr Fac AY,+1.805.756.7903,013-0233,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+152,ME 422_01,"Xing, Siyuan",sixing,Instr Fac AY,+1.805.756.7903,013-0233,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+153,ME 347_13,"Cape, Bryce",brwillis,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+154,ME P347 COP_13,"Cape, Bryce",brwillis,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+155,ME 347_06,"Cape, Bryce",brwillis,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+156,ME 347_08,"Cape, Bryce",brwillis,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+157,ME 212_03,"Cooper, Mary",macooper,Lecturer AY,+1.805.756.1346,092M-A107,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Mechanical Engineering
+158,ME 318_11,"Cooper, Mary",macooper,Lecturer AY,+1.805.756.1346,092M-A107,lab,R,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+159,ME 212_04,"Cooper, Mary",macooper,Lecturer AY,+1.805.756.1346,092M-A107,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+160,ME 211_02,"Cruz Lozano, Ricardo",rcruzloz,Lecturer AY,+1.805.756.1334,013-0254,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+161,ME 211_05,"Cruz Lozano, Ricardo",rcruzloz,Lecturer AY,+1.805.756.1334,013-0254,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+162,ME 211_03,"Cruz Lozano, Ricardo",rcruzloz,Lecturer AY,+1.805.756.1334,013-0254,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+163,ME 264_02,"Cruz Lozano, Ricardo",rcruzloz,Lecturer AY,+1.805.756.1334,013-0254,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+164,ME 441_01,"Fabijanic, John",jfabijan,Lecturer AY,+1.805.756.5547,013-0247,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+165,ME 428_01,"Fabijanic, John",jfabijan,Lecturer AY,+1.805.756.5547,013-0247,lab,TR,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+166,ME 441_02,"Fabijanic, John",jfabijan,Lecturer AY,+1.805.756.5547,013-0247,lab,W,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+167,ME 428_02,"Fabijanic, John",jfabijan,Lecturer AY,+1.805.756.5547,013-0247,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+168,ME 318_03,"Ghalamchi, Behnam",bghalamc,Lecturer AY,+1.805.756.1334,013-0254,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+169,ME 422_10,"Ghalamchi, Behnam",bghalamc,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+170,ME 422_08,"Ghalamchi, Behnam",bghalamc,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+171,ME 422_09,"Ghalamchi, Behnam",bghalamc,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+172,ME 318_04,"Ghalamchi, Behnam",bghalamc,Lecturer AY,+1.805.756.1334,013-0254,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+173,ME 430_04,"Harding, Sarah",sthardin,Lecturer AY,+1.805.756.7994,013-0259,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+174,ME 430_03,"Harding, Sarah",sthardin,Lecturer AY,+1.805.756.7994,013-0259,lab,TR,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+175,ME 430_05,"Harding, Sarah",sthardin,Lecturer AY,+1.805.756.7994,013-0259,lab,TR,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+176,ME 350_09,"Hontz, Mark",mhontz,Lecturer AY,+1.805.756.1334,013-0254,lab,R,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+177,ME 350_10,"Hontz, Mark",mhontz,Lecturer AY,+1.805.756.1334,013-0254,lab,R,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+178,ME 443_01,"Jumonville, Frank",fjumonvi,Lecturer AY,+1.805.756.1334,013-0254,lecture,TR,06:10 PM,08:00 PM,999,CENG-Mechanical Engineering
+179,ME 420 (1)_04,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+180,ME 420 (1)_07,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+181,ME 420 (1)_06,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+182,ME 341_03,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Mechanical Engineering
+183,ME 341_01,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Mechanical Engineering
+184,ME 420 (1)_02,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+185,ME 420 (1)_03,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+186,ME 341_02,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+187,ME 420 (1)_08,"Keller, Melinda",mkeller,Lecturer AY,+1.805.756.1390,092M-B111,lab,T,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+188,ME 341_07,"Kennedy, Jane",jekenned,Lecturer AY,+1.805.756.1354,021-0239,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Mechanical Engineering
+189,ME 341_08,"Kennedy, Jane",jekenned,Lecturer AY,+1.805.756.1354,021-0239,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Mechanical Engineering
+190,ME 212_01,"Kennedy, Jane",jekenned,Lecturer AY,+1.805.756.1354,021-0239,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Mechanical Engineering
+191,ME 341_05,"Kennedy, Jane",jekenned,Lecturer AY,+1.805.756.1354,021-0239,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+192,ME 341_06,"Kennedy, Jane",jekenned,Lecturer AY,+1.805.756.1354,021-0239,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Mechanical Engineering
+193,ME 130_09,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,R,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+194,ME 251_01,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lecture,T,07:10 AM,08:00 AM,999,CENG-Mechanical Engineering
+195,ME 130_04,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,T,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+196,ME 130_07,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,R,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+197,ME 130_08,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,R,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+198,ME 251_03,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,W,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+199,ME 130_03,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,T,09:10 AM,12:00 PM,999,CENG-Mechanical Engineering
+200,ME 251_02,"Larson, John",jlarso04,Lecturer AY,+1.805.756.1118,092M-B110,lab,W,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+201,ME 318_06,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,M,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+202,ME 228_01,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,MW,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+203,ME 318_07,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+204,ME 318_08,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,T,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+205,ME 228_02,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,MW,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+206,ME 318_10,"Leitzell, Ashley",aleitzel,Lecturer AY,+1.805.756.1354,021-0239,lab,W,03:10 PM,06:00 PM,999,CENG-Mechanical Engineering
+207,ME 350_13,"McDaniel, Travis",tmcdanie,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+208,ME 429 /2_03,"McFarland, Lee",mlmcfarl,Lecturer AY,+1.805.756.7253,021-0242,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+209,IME 314_02,"McFarland, Lee",mlmcfarl,Lecturer AY,+1.805.756.7253,021-0242,lecture,TR,08:10 AM,09:30 AM,999,CENG-Mechanical Engineering
+210,ME 211_06,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Mechanical Engineering
+211,ME 236_10,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+212,ME 236_11,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+213,ME P211 COP_06,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lecture,MWF,01:10 PM,02:00 PM,NA,CENG-Mechanical Engineering
+214,ME 236_04,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+215,ME 236_08,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+216,ME 236_07,"Niebuhr, David",dniebuhr,Lecturer AY,+1.805.756.7122,092M-A104,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+217,ME P326 COP_07,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,activity,NA,NA,NA,NA,CENG-Mechanical Engineering
+218,ME P326 COP_05,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,activity,T,06:10 PM,08:00 PM,NA,CENG-Mechanical Engineering
+219,ME 405_01,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+220,ME 405_03,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+221,ME 326_07,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,activity,NA,NA,NA,NA,CENG-Mechanical Engineering
+222,ME 326_05,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,activity,NA,NA,NA,NA,CENG-Mechanical Engineering
+223,ME 326_06,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,activity,NA,NA,NA,NA,CENG-Mechanical Engineering
+224,ME 405_04,"Refvem, Charlie",crefvem,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+225,ME 236_13,"Ridgely, Pam",pridgely,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+226,ME 236_05,"Ridgely, Pam",pridgely,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+227,ME 236_06,"Ridgely, Pam",pridgely,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+228,ME 429_02,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,TR,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+229,ME 429_01,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,TR,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+230,ME 347_12,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+231,ME 347_09,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+232,ME 347_11,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+233,ME 347_10,"Rossman, Eileen",erossman,Lecturer AY,+1.805.756.7424,013-0255,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+234,BMED 330_03,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+235,ME 130_05,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+236,ME 130_02,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+237,ME 130_01,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+238,ME 130_06,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+239,BMED 330_01,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lecture,NA,NA,NA,NA,CENG-Mechanical Engineering
+240,BMED 330_02,"Stearns, Jonathon",jtstearn,Lecturer AY,+1.805.756.1334,013-0254,lab,NA,NA,NA,NA,CENG-Mechanical Engineering
+241,ME 326_04,"Le, Toan",tle72,Teaching Associate AY,+1.805.756.1334,013-0254,activity,NA,NA,NA,NA,CENG-Mechanical Engineering
+242,ME 318_12,"Le, Toan",tle72,Teaching Associate AY,+1.805.756.1334,013-0254,lab,R,12:10 PM,03:00 PM,999,CENG-Mechanical Engineering
+243,IME 146_01,"Pulse, Eric",epulse,"Equip Tech II, Electro-Mechnl",+1.805.756.5634,197-0117,lab,T,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+244,IME 146_05,"Pulse, Eric",epulse,"Equip Tech II, Electro-Mechnl",+1.805.756.5634,197-0117,lab,R,08:10 AM,11:00 AM,999,CENG-Mechanical Engineering
+245,ENVE 599_08,"Chadwell, Charles",chadwell,Dept Chair - Civil & Env Engrg,+1.805.756.1317,013-0266A,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+246,ENGR 400_06,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+247,CE 596_05,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+248,CE 207_23,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,lecture,W,08:10 AM,09:00 AM,999,CENG-Civil & Environmental Engineering
+249,CE 207_24,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,activity,W,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+250,CE 207_13,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,lecture,R,12:10 PM,01:00 PM,999,CENG-Civil & Environmental Engineering
+251,CE 207_14,"Jansen, Daniel",djansen,Dir General Engineering Prgm,+1.805.756.2509,013-0222,activity,R,01:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+252,HNRS 200_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+253,HNRS 200_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+254,HNRC 400_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+255,HNRS 461_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,seminar,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+256,HNRS 100_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+257,HNRS 361_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+258,HNRS 361_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+259,HNRS 163_04,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,activity,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+260,HNRS 100_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,activity,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+261,HNRC 200_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+262,HNRC 200_03,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+263,HNRS 163_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,activity,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+264,HNRS 299_06,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,seminar,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+265,HNRC 200_02,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+266,HNRS 299_05,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,seminar,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+267,HNRS 163 /2_03,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,activity,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+268,HNRS 163 /2_01,"Fiegel, Gregg",gfiegel,Dir Univ Honors Program,+1.805.756.1307,035-0510,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+269,CM 371 (1)_74,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,lecture,MW,12:10 PM,01:30 PM,999,CENG-Civil & Environmental Engineering
+270,CM 371 (1)_75,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,activity,MW,01:40 PM,02:30 PM,999,CENG-Civil & Environmental Engineering
+271,CE 400_17,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+272,CE 371 (1)_75,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,activity,MW,01:40 PM,02:30 PM,999,CENG-Civil & Environmental Engineering
+273,CE 371 (1)_74,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,lecture,MW,12:10 PM,01:30 PM,999,CENG-Civil & Environmental Engineering
+274,CE 467_06,"Alzraiee, Hani",halzraie,Instr Fac AY,+1.805.756.2413,013-0268,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+275,ENVE 400_08,"El Badawy, Amro",aelbadaw,Instr Fac AY,+1.805.756.6217,013-0209,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+276,ENVE 599_06,"El Badawy, Amro",aelbadaw,Instr Fac AY,+1.805.756.6217,013-0209,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+277,ENVE 325_01,"El Badawy, Amro",aelbadaw,Instr Fac AY,+1.805.756.6217,013-0209,lecture,TR,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+278,ENVE 421_01,"El Badawy, Amro",aelbadaw,Instr Fac AY,+1.805.756.6217,013-0209,lecture,MW,10:10 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+279,CE 596_03,"Hall, Garrett",gjhall,Instr Fac AY,+1.805.756.5130,192-0128,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+280,CE 204_01,"Hall, Garrett",gjhall,Instr Fac AY,+1.805.756.5130,192-0128,lecture,MW,01:10 PM,02:00 PM,999,CENG-Civil & Environmental Engineering
+281,CE 467_07,"Hall, Garrett",gjhall,Instr Fac AY,+1.805.756.5130,192-0128,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+282,CE 599_08,"Hanson, Jim",jahanson,Instr Fac AY,+1.805.756.6227,013-0258,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+283,CE 587_01,"Hanson, Jim",jahanson,Instr Fac AY,+1.805.756.6227,013-0258,lecture,MW,12:10 PM,02:00 PM,999,CENG-Civil & Environmental Engineering
+284,CE 381_02,"Hanson, Jim",jahanson,Instr Fac AY,+1.805.756.6227,013-0258,lecture,TR,04:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+285,CE 355_03,"Kachlakev, Damian",dkachlak,Instr Fac AY,+1.805.756.2755,192-0127,lab,T,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+286,CE 355_04,"Kachlakev, Damian",dkachlak,Instr Fac AY,+1.805.756.2755,192-0127,lab,R,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+287,CE 355_02,"Kachlakev, Damian",dkachlak,Instr Fac AY,+1.805.756.2755,192-0127,lab,T,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+288,CE 355_01,"Kachlakev, Damian",dkachlak,Instr Fac AY,+1.805.756.2755,192-0127,lecture,TR,09:40 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+289,CE 207_05,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+290,CE 599_11,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+291,CE 504 (1)_70,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,MW,09:10 AM,10:30 AM,999,CENG-Civil & Environmental Engineering
+292,ME 504 (1)_70,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,MW,09:10 AM,10:30 AM,999,CENG-Civil & Environmental Engineering
+293,ME 504 (1)_71,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lab,MW,10:40 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+294,CE 504 (1)_71,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lab,MW,10:40 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+295,CE 207_07,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+296,CE 207_11,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+297,CE 207_03,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+298,CE 207_21,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,lecture,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+299,CE 400_11,"Kasper, Eric",ekasper,Instr Fac AY,+1.805.756.1422,192-0129,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+300,CE 467_03,"Moss, Robb",rmoss,Instr Fac AY,+1.805.756.6427,013-0217,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+301,CE 583_02,"Moss, Robb",rmoss,Instr Fac AY,+1.805.756.6427,013-0217,lecture,MW,02:10 PM,04:00 PM,999,CENG-Civil & Environmental Engineering
+302,CE 596_10,"Moss, Robb",rmoss,Instr Fac AY,+1.805.756.6427,013-0217,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+303,CE 599_15,"Moss, Robb",rmoss,Instr Fac AY,+1.805.756.6427,013-0217,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+304,CE 481_01,"Moss, Robb",rmoss,Instr Fac AY,+1.805.756.6427,013-0217,lecture,TR,12:10 PM,02:00 PM,999,CENG-Civil & Environmental Engineering
+305,CE 599_19,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+306,CE 596_11,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+307,CE 500_19,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+308,CE 533_01,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,lecture,TR,02:10 PM,04:00 PM,999,CENG-Civil & Environmental Engineering
+309,CE 467_01,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,lecture,T,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+310,CE 467_05,"Muleta, Misgana",mmuleta,Instr Fac AY,+1.805.756.1337,013-0214,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+311,ENVE 400_03,"Nelson, Yarrow",ynelson,Instr Fac AY,+1.805.756.1347,116-0206,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+312,ENVE 599_07,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+313,CE 599_12,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+314,ENVE 500_07,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+315,CE 596_13,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+316,ENVE 400_07,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+317,CE 400_23,"Oulton, Rebekah",roulton,Instr Fac AY,+1.805.756.1367,013-0215,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+318,ENVE 455_01,"Pal, Nirupam",npal,Instr Fac AY,+1.805.756.1355,013-0207,lecture,MW,12:10 PM,02:00 PM,999,CENG-Civil & Environmental Engineering
+319,ENVE 443_02,"Pal, Nirupam",npal,Instr Fac AY,+1.805.756.1355,013-0207,lab,T,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+320,ENVE 443_01,"Pal, Nirupam",npal,Instr Fac AY,+1.805.756.1355,013-0207,lecture,TR,03:10 PM,04:30 PM,999,CENG-Civil & Environmental Engineering
+321,CE 599_20,"Pande, Anurag",apande,Instr Fac AY,+1.805.756.2104,013-0212,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+322,CE 596_15,"Pande, Anurag",apande,Instr Fac AY,+1.805.756.2104,013-0212,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+323,CE 557_02,"Qu, Bing",bqu,Instr Fac AY,+1.805.756.5645,013-0206,lab,TR,08:10 AM,09:30 AM,999,CENG-Civil & Environmental Engineering
+324,CE 596_16,"Qu, Bing",bqu,Instr Fac AY,+1.805.756.5645,013-0206,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+325,CE 557_01,"Qu, Bing",bqu,Instr Fac AY,+1.805.756.5645,013-0206,lecture,TR,09:40 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+326,CE 400_21,"Qu, Bing",bqu,Instr Fac AY,+1.805.756.5645,013-0206,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+327,CE 467_04,"Qu, Bing",bqu,Instr Fac AY,+1.805.756.5645,013-0206,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+328,CE 321_02,"Rahim, Ashraf",arahim,Instr Fac AY,+1.805.756.1349,013-0225,lecture,MW,07:40 AM,09:00 AM,999,CENG-Civil & Environmental Engineering
+329,CE 322_02,"Rahim, Ashraf",arahim,Instr Fac AY,+1.805.756.1349,013-0225,lab,R,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+330,CE 322_01,"Rahim, Ashraf",arahim,Instr Fac AY,+1.805.756.1349,013-0225,lab,R,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+331,CE 596_18,"Rahman, Shikha",rahman,Instr Fac AY,+1.805.756.2117,013-0208,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+332,CE 538_01,"Rahman, Shikha",rahman,Instr Fac AY,+1.805.756.2117,013-0208,lecture,TR,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+333,CE 337_01,"Rahman, Shikha",rahman,Instr Fac AY,+1.805.756.2117,013-0208,lab,M,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+334,CE 336_01,"Rahman, Shikha",rahman,Instr Fac AY,+1.805.756.2117,013-0208,lecture,TR,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+335,CE 432_01,"Talke, Stefan",stalke,Instr Fac AY,+1.805.756.6238,013-0216,lecture,MW,10:10 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+336,CE 599_17,"Talke, Stefan",stalke,Instr Fac AY,+1.805.756.6238,013-0216,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+337,CE 337_03,"Talke, Stefan",stalke,Instr Fac AY,+1.805.756.6238,013-0216,lab,W,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+338,CE 400_03,"Talke, Stefan",stalke,Instr Fac AY,+1.805.756.6238,013-0216,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+339,ENVE 426_02,"Thatcher, Tracy",tthatche,Instr Fac AY,+1.805.756.6273,013-0271,lab,F,08:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+340,ENVE 426_01,"Thatcher, Tracy",tthatche,Instr Fac AY,+1.805.756.6273,013-0271,lecture,TR,08:10 AM,09:00 AM,999,CENG-Civil & Environmental Engineering
+341,ENVE 426_04,"Thatcher, Tracy",tthatche,Instr Fac AY,+1.805.756.6273,013-0271,lab,R,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+342,ENVE 407_01,"Thatcher, Tracy",tthatche,Instr Fac AY,+1.805.756.6273,013-0271,lab,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+343,ENVE 426_03,"Thatcher, Tracy",tthatche,Instr Fac AY,+1.805.756.6273,013-0271,lab,F,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+344,CE 536_02,"Anderson, Kyle",kyanders,Lecturer AY,+1.805.756.2947,013-0266,lab,MW,07:40 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+345,CE 536_01,"Anderson, Kyle",kyanders,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,06:10 PM,07:30 PM,999,CENG-Civil & Environmental Engineering
+346,CE 259_08,"Banker-Hix, Wyatt",wbankerh,Lecturer AY,+1.805.756.2947,013-0266,lab,MW,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+347,CE 581_03,"Derbidge, Nephi",nderbidg,Lecturer AY,+1.805.756.1387,013-0213,lecture,TR,09:40 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+348,CE 581_04,"Derbidge, Nephi",nderbidg,Lecturer AY,+1.805.756.1387,013-0213,lab,F,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+349,CE 382_01,"Derbidge, Nephi",nderbidg,Lecturer AY,+1.805.756.1387,013-0213,lab,W,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+350,CE 382_04,"Derbidge, Nephi",nderbidg,Lecturer AY,+1.805.756.1387,013-0213,lab,M,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+351,CE 259_09,"Devaney, Kevin",kdevaney,Lecturer AY,+1.805.756.7122,092M-A104,lab,MW,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+352,CE 457_02,"Devaney, Kevin",kdevaney,Lecturer AY,+1.805.756.7122,092M-A104,lab,M,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+353,CE 457_01,"Devaney, Kevin",kdevaney,Lecturer AY,+1.805.756.7122,092M-A104,lecture,MW,07:40 AM,09:00 AM,999,CENG-Civil & Environmental Engineering
+354,CE 457_03,"Devaney, Kevin",kdevaney,Lecturer AY,+1.805.756.7122,092M-A104,lab,R,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+355,CE 356_03,"Eslami, Reza",moeslami,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,06:10 PM,07:30 PM,999,CENG-Civil & Environmental Engineering
+356,CE 356_06,"Eslami, Reza",moeslami,Lecturer AY,+1.805.756.2947,013-0266,lab,W,09:10 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+357,CE 356_04,"Eslami, Reza",moeslami,Lecturer AY,+1.805.756.2947,013-0266,lab,M,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+358,CE 259_01,"Eslami, Reza",moeslami,Lecturer AY,+1.805.756.2947,013-0266,lab,TR,08:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+359,CE 259_05,"Eslami, Reza",moeslami,Lecturer AY,+1.805.756.2947,013-0266,lab,TR,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+360,ARCE 316_05,"Esola, Mario",mesola,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,10:10 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+361,ARCE 316_04,"Esola, Mario",mesola,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,08:10 AM,10:00 AM,999,CENG-Civil & Environmental Engineering
+362,CE 352_02,"Esola, Mario",mesola,Lecturer AY,+1.805.756.2947,013-0266,lab,W,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+363,CE 352_01,"Esola, Mario",mesola,Lecturer AY,+1.805.756.2947,013-0266,lecture,TR,09:40 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+364,ENVE 438_02,"Garza, Amando",aggarza,Lecturer AY,+1.805.756.2947,013-0266,lecture,TR,04:40 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+365,ARCE 316_06,"Guyader, Andrew",aguyader,Lecturer AY,+1.805.756.1314,021-0110A,lecture,TR,04:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+366,CE 113_03,"Jones, Preston",pljones,Lecturer AY,+1.805.756.2947,013-0266,lab,MW,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+367,CE 382_05,"King, Judd",jking35,Lecturer AY,+1.805.756.2947,013-0266,lab,M,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+368,CE 434_01,"Low, Evan",eplow,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,04:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+369,ENVE 450_01,"Manheim, Derek",dmanheim,Lecturer AY,+1.805.756.2947,013-0266,lecture,TR,09:40 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+370,ENVE 450_02,"Manheim, Derek",dmanheim,Lecturer AY,+1.805.756.2947,013-0266,lab,F,08:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+371,ENVE 331_01,"Manheim, Derek",dmanheim,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,04:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+372,ENVE 331_02,"Manheim, Derek",dmanheim,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+373,CE 251_02,"Martin, Rick",rmart160,Lecturer AY,+1.805.756.2947,013-0266,activity,MW,10:10 AM,12:00 PM,999,CENG-Civil & Environmental Engineering
+374,ENVE 324_01,"Martin, Rick",rmart160,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,02:10 PM,04:00 PM,999,CENG-Civil & Environmental Engineering
+375,CE 251_01,"Martin, Rick",rmart160,Lecturer AY,+1.805.756.2947,013-0266,activity,MW,08:10 AM,10:00 AM,999,CENG-Civil & Environmental Engineering
+376,CE 425_01,"Matteson, Glen",gmatteso,Lecturer AY,+1.805.756.2947,013-0266,lecture,MW,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+377,CE 400_12,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+378,CE 222_04,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,lab,T,03:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+379,CE 222_01,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,lab,M,08:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+380,CE 222_02,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,lab,M,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+381,CE 529_01,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,lecture,TR,10:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+382,CE 529_02,"Molan, Amir",amolan,Lecturer AY,+1.805.756.2947,013-0266,lab,TR,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+383,CE 251_03,"See, Daniel",dsee,Lecturer AY,+1.805.756.2947,013-0266,activity,MW,04:10 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+384,CE 113_01,"Shams, Alireza",alshams,Lecturer AY,+1.805.756.2947,013-0266,lab,TR,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+385,CE 527_02,"Shams, Alireza",alshams,Lecturer AY,+1.805.756.2947,013-0266,lab,W,08:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+386,CE 527_01,"Shams, Alireza",alshams,Lecturer AY,+1.805.756.2947,013-0266,lecture,TR,04:40 PM,06:00 PM,999,CENG-Civil & Environmental Engineering
+387,CE 467_02,"Valadao, Paul",pvaladao,Lecturer AY,+1.805.756.2947,013-0266,lab,R,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+388,CE 207_28,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,activity,W,07:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+389,CE 207_25,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,lecture,M,06:10 PM,07:00 PM,999,CENG-Civil & Environmental Engineering
+390,CE 207_26,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,activity,M,07:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+391,CE 207_27,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,lecture,W,06:10 PM,07:00 PM,999,CENG-Civil & Environmental Engineering
+392,CE 207_17,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,lecture,F,08:10 AM,09:00 AM,999,CENG-Civil & Environmental Engineering
+393,CE 207_19,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,lecture,F,12:10 PM,01:00 PM,999,CENG-Civil & Environmental Engineering
+394,CE 207_18,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,activity,F,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+395,CE 207_20,"Weir, Charles",cweir,Lecturer AY,+1.805.756.2947,013-0266,activity,F,01:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+396,CE 423_01,"Mastako, Kimberley",kmastako,Lecturer AY,+1.805.756.1162,004-0005,lecture,MW,04:10 PM,05:30 PM,999,CENG-Civil & Environmental Engineering
+397,CE 423_02,"Mastako, Kimberley",kmastako,Lecturer AY,+1.805.756.1162,004-0005,lab,F,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+398,CE 400_13,"Mastako, Kimberley",kmastako,Lecturer AY,+1.805.756.1162,004-0005,independent,NA,NA,NA,NA,CENG-Civil & Environmental Engineering
+399,CE 321_01,"Mastako, Kimberley",kmastako,Lecturer AY,+1.805.756.1162,004-0005,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+400,CE 204_07,"Allen, Julia",jallen46,Teaching Associate AY,+1.805.756.2947,013-0266,activity,W,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+401,CE 204_03,"Allen, Julia",jallen46,Teaching Associate AY,+1.805.756.2947,013-0266,activity,M,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+402,CE 382_06,"Becker, Lauren",labecker,Teaching Associate AY,+1.805.756.2947,013-0266,lab,M,06:10 PM,09:00 PM,999,CENG-Civil & Environmental Engineering
+403,CE 207_22,"Dekker, Nicholas",ndekker,Teaching Associate AY,+1.805.756.2328,052-D027C,activity,M,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+404,CE 337_04,"Fagan, Taylor",trfagan,Teaching Associate AY,+1.805.756.2947,013-0266,lab,W,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+405,CE 204_04,"Fagundes, Darren",djfagund,Teaching Associate AY,+1.805.756.2947,013-0266,activity,M,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+406,CE 204_08,"Fagundes, Darren",djfagund,Teaching Associate AY,+1.805.756.2947,013-0266,activity,W,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+407,CE 204_09,"Berger, Mark",mhaskibe,Teaching Associate AY,+1.805.756.2947,013-0266,activity,W,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+408,CE 207_12,"Mahmoud, Jonathan",jmahmoud,Teaching Associate AY,+1.805.756.2947,013-0266,activity,R,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+409,CE 207_08,"Mahmoud, Jonathan",jmahmoud,Teaching Associate AY,+1.805.756.2947,013-0266,activity,T,09:10 AM,11:00 AM,999,CENG-Civil & Environmental Engineering
+410,CE 204_05,"Mahmoud, Jonathan",jmahmoud,Teaching Associate AY,+1.805.756.2947,013-0266,activity,M,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+411,CE 337_02,"Murray, Alex",amurra03,Teaching Associate AY,+1.805.756.2328,052-D027C,lab,M,12:10 PM,03:00 PM,999,CENG-Civil & Environmental Engineering
+412,CE 204_06,"Sams, Madison",mlsams,Teaching Associate AY,+1.805.756.2947,013-0266,activity,M,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+413,CE 204_10,"Williams, Brad",bwilli58,Teaching Associate AY,+1.805.756.2947,013-0266,activity,W,06:10 PM,08:00 PM,999,CENG-Civil & Environmental Engineering
+414,EE 348_09,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+415,EE 599_08,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+416,EE 500_03,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+417,EE 461_03,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+418,EE 462_14,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+419,EE 200_01,"Derickson, Dennis",ddericks,Dept Chair - Elec Engr,+1.805.756.7584,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+420,EE 307_01,"Agbo, Samuel",sagbo,Instr Fac AY,+1.805.756.1528,020A-0310,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+421,EE 347_04,"Agbo, Samuel",sagbo,Instr Fac AY,+1.805.756.1528,020A-0310,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+422,EE 347_02,"Agbo, Samuel",sagbo,Instr Fac AY,+1.805.756.1528,020A-0310,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+423,EE 307_02,"Agbo, Samuel",sagbo,Instr Fac AY,+1.805.756.1528,020A-0310,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+424,CPE 462_19,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+425,EE 335_01,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,lecture,MTWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+426,EE 335_02,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,lecture,MTWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+427,EE 295_07,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+428,EE 461_15,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+429,EE 462_15,"Ahlgren, William",wahlgren,Instr Fac AY,+1.805.756.2309,020A-0213,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+430,EE 533_01,"Arakaki, Dean",darakaki,Instr Fac AY,+1.805.756.2625,020A-0302,seminar,MTWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+431,EE 335_04,"Arakaki, Dean",darakaki,Instr Fac AY,+1.805.756.2625,020A-0302,lecture,MW,04:10 PM,06:00 PM,999,CENG-Electrical Engineering
+432,EE 461_01,"Arakaki, Dean",darakaki,Instr Fac AY,+1.805.756.2625,020A-0302,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+433,EE 375_06,"Arakaki, Dean",darakaki,Instr Fac AY,+1.805.756.2625,020A-0302,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+434,EE 462_01,"Arakaki, Dean",darakaki,Instr Fac AY,+1.805.756.2625,020A-0302,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+435,EE 307_03,"Braun, David",dbraun,Instr Fac AY,+1.805.756.1464,020A-0304,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+436,EE 462_16,"Braun, David",dbraun,Instr Fac AY,+1.805.756.1464,020A-0304,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+437,EE 413_01,"Braun, David",dbraun,Instr Fac AY,+1.805.756.1464,020A-0304,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+438,EE 461_16,"Braun, David",dbraun,Instr Fac AY,+1.805.756.1464,020A-0304,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+439,EE 413_02,"Braun, David",dbraun,Instr Fac AY,+1.805.756.1464,020A-0304,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+440,CSC 500_31,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+441,EE 329_16,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,lab,TR,01:40 PM,03:00 PM,999,CENG-Electrical Engineering
+442,EE 329_15,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,lecture,TR,12:10 PM,01:30 PM,999,CENG-Electrical Engineering
+443,EE 599_24,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+444,EE 500_01,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+445,CPE 400_03,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+446,EE 461_24,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+447,CPE 462_06,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+448,EE 462_25,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+449,CSC 599_31,"Callenes-Sloan, Joseph",jcallene,Instr Fac AY,+1.805.756.5607,020A-0314,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+450,CSC 492_32,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+451,EE 521_02,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,lab,TR,01:40 PM,03:00 PM,999,CENG-Electrical Engineering
+452,EE 462_21,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+453,CPE 202_23,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,lecture,TR,08:10 AM,09:30 AM,999,CENG-Electrical Engineering
+454,EE 521_01,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,seminar,TR,12:10 PM,01:30 PM,999,CENG-Electrical Engineering
+455,CPE 202_24,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,lab,TR,09:40 AM,11:00 AM,999,CENG-Electrical Engineering
+456,CPE 462_08,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+457,EE 461_21,"Danowitz, Andrew",adanowit,Instr Fac AY,+1.805.756.2756,020A-0306,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+458,EE 113_05,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+459,EE 143_05,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+460,CPE 462_12,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+461,EE 143_07,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+462,EE 143_09,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+463,EE 113_03,"DePiero, Fred",fdepiero,Instr Fac AY,+1.805.756.2917,020A-0303,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+464,EE P295 COP_03,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,lab,M,03:10 PM,06:00 PM,NA,CENG-Electrical Engineering
+465,EE 520_01,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,seminar,MW,10:10 AM,12:00 PM,999,CENG-Electrical Engineering
+466,EE 295_10,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+467,EE 461_23,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+468,EE 295_03,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,lab,M,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+469,CPE 462_10,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+470,EE 462_05,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+471,EE 295_04,"Dolan, Dale",dsdolan,Instr Fac AY,+1.805.756.2495,020A-0205,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+472,EE 400_01,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+473,EE 375_08,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,lab,F,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+474,EE 375_03,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+475,EE 375_02,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,lab,T,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+476,EE 335_03,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,lecture,MW,10:10 AM,12:00 PM,999,CENG-Electrical Engineering
+477,EE 462_17,"Jin, Xiaomin",xjin,Instr Fac AY,+1.805.756.7046,020-0315,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+478,EE 514_01,"MacCarley, Art",amaccarl,Instr Fac AY,+1.805.756.2317,020A-0214,seminar,TR,06:10 PM,08:00 PM,999,CENG-Electrical Engineering
+479,EE 462_18,"MacCarley, Art",amaccarl,Instr Fac AY,+1.805.756.2317,020A-0214,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+480,EE 434 (1)_71,"MacCarley, Art",amaccarl,Instr Fac AY,+1.805.756.2317,020A-0214,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+481,EE 434 (1)_70,"MacCarley, Art",amaccarl,Instr Fac AY,+1.805.756.2317,020A-0214,lecture,TR,03:10 PM,04:30 PM,999,CENG-Electrical Engineering
+482,EE 461_18,"MacCarley, Art",amaccarl,Instr Fac AY,+1.805.756.2317,020A-0214,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+483,CPE 233_03,"Mealy, Bryan",bmealy,Instr Fac AY,+1.805.756.2781,020A-0200,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+484,CPE 233_04,"Mealy, Bryan",bmealy,Instr Fac AY,+1.805.756.2781,020A-0200,lab,MWF,03:10 PM,04:00 PM,999,CENG-Electrical Engineering
+485,EE 462_06,"Mealy, Bryan",bmealy,Instr Fac AY,+1.805.756.2781,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+486,CPE 233_01,"Mealy, Bryan",bmealy,Instr Fac AY,+1.805.756.2781,020A-0200,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+487,CPE 233_02,"Mealy, Bryan",bmealy,Instr Fac AY,+1.805.756.2781,020A-0200,lab,MWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+488,EE 295_05,"Nafisi, Ahmad",anafisi,Instr Fac AY,+1.805.756.1514,020A-0317,lab,T,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+489,EE 255_01,"Nafisi, Ahmad",anafisi,Instr Fac AY,+1.805.756.1514,020A-0317,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+490,EE 255_05,"Nafisi, Ahmad",anafisi,Instr Fac AY,+1.805.756.1514,020A-0317,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Electrical Engineering
+491,EE 255_02,"Nafisi, Ahmad",anafisi,Instr Fac AY,+1.805.756.1514,020A-0317,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+492,CPE 316_01,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+493,CPE 316_03,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+494,EE 599_17,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+495,CPE 316_04,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lab,MWF,03:10 PM,04:00 PM,999,CENG-Electrical Engineering
+496,CPE 461_02,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+497,CPE 400_04,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+498,CPE 316_02,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lab,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+499,CPE 462_14,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+500,EE 461_08,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+501,EE 462_08,"Oliver, John",jyoliver,Instr Fac AY,+1.805.756.5434,020A-0316,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+502,EE 462_09,"Pilkington, Wayne",wpilking,Instr Fac AY,+1.805.756.5431,020A-0204,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+503,EE 228_02,"Pilkington, Wayne",wpilking,Instr Fac AY,+1.805.756.5431,020A-0204,lecture,MTWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+504,EE 228_01,"Pilkington, Wayne",wpilking,Instr Fac AY,+1.805.756.5431,020A-0204,lecture,MTWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+505,EE 518_01,"Poshtan, Majid",mposhtan,Instr Fac AY,+1.805.756.2763,020A-0301,seminar,MW,06:10 PM,07:30 PM,999,CENG-Electrical Engineering
+506,EE 461_05,"Poshtan, Majid",mposhtan,Instr Fac AY,+1.805.756.2763,020A-0301,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+507,EE 462_02,"Poshtan, Majid",mposhtan,Instr Fac AY,+1.805.756.2763,020A-0301,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+508,EE 518_02,"Poshtan, Majid",mposhtan,Instr Fac AY,+1.805.756.2763,020A-0301,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+509,EE 295_12,"Poshtan, Majid",mposhtan,Instr Fac AY,+1.805.756.2763,020A-0301,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+510,EE 599_06,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+511,EE 500_02,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+512,ENGR 461_04,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,lab,TR,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+513,EE 308_02,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+514,EE 348_01,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,lab,T,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+515,CPE 462_24,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+516,EE 308_01,"Prodanov, Vladimir",vprodano,Instr Fac AY,+1.805.756.5393,020A-0308,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+517,EE 314_01,"Saghri, John",jsaghri,Instr Fac AY,+1.805.756.1462,020A-0312,lecture,MW,04:10 PM,05:30 PM,999,CENG-Electrical Engineering
+518,EE 212_02,"Saghri, John",jsaghri,Instr Fac AY,+1.805.756.1462,020A-0312,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+519,EE 212_03,"Saghri, John",jsaghri,Instr Fac AY,+1.805.756.1462,020A-0312,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+520,EE P255 COP_07,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lecture,TR,09:40 AM,11:00 AM,NA,CENG-Electrical Engineering
+521,EE 295_02,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lab,M,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+522,EE 255_06,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lecture,TR,08:10 AM,09:30 AM,999,CENG-Electrical Engineering
+523,EE 444_01,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lab,F,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+524,EE 255_07,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lecture,TR,09:40 AM,11:00 AM,999,CENG-Electrical Engineering
+525,EE 295_01,"Shaban, Ali",ashaban,Instr Fac AY,+1.805.756.2918,020A-0305,lab,M,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+526,CSC 492_35,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+527,CPE 400_01,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+528,CPE 461_01,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+529,CPE 400_02,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+530,ENGR 465_01,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,lab,MW,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+531,CSC 400_35,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+532,CPE 462_01,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+533,CPE 462_04,"Slivovsky, Lynne",lslivovs,Instr Fac AY,+1.805.756.5383,020A-0313,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+534,CPE 462_21,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,lab,NA,NA,NA,NA,CENG-Electrical Engineering
+535,EE 599_01,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+536,EE 308_04,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Electrical Engineering
+537,EE 308_03,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+538,EE 348_04,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+539,CPE 400_07,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+540,EE 461_20,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+541,EE 532_01,"Smilkstein, Tina",tsmilkst,Instr Fac AY,+1.805.756.2497,020A-0318,lab,T,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+542,EE 599_22,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+543,EE 500_04,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+544,EE 295_11,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+545,EE 527_01,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,seminar,MW,02:10 PM,04:00 PM,999,CENG-Electrical Engineering
+546,EE 461_13,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+547,EE 462_12,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+548,EE 295_06,"Taufik, NFN",taufik,Instr Fac AY,+1.805.756.2318,020A-0203,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+549,EE 599_20,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+550,EE 509_01,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,seminar,MW,02:10 PM,04:00 PM,999,CENG-Electrical Engineering
+551,EE 228_04,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,lecture,TR,12:10 PM,02:00 PM,999,CENG-Electrical Engineering
+552,EE 462_22,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+553,EE 461_22,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+554,EE 368_02,"Yu, Xiao-Hua (Helen)",xhyu,Instr Fac AY,+1.805.756.2441,020A-0311,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+555,EE 599_03,"Zhang, Jane",jzhang,Instr Fac AY,+1.805.756.7528,020A-0307,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+556,EE 461_02,"Zhang, Jane",jzhang,Instr Fac AY,+1.805.756.7528,020A-0307,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+557,EE 328_01,"Zhang, Jane",jzhang,Instr Fac AY,+1.805.756.7528,020A-0307,lecture,TR,08:10 AM,09:30 AM,999,CENG-Electrical Engineering
+558,EE 516_01,"Zhang, Jane",jzhang,Instr Fac AY,+1.805.756.7528,020A-0307,seminar,TR,09:40 AM,11:00 AM,999,CENG-Electrical Engineering
+559,EE 516_02,"Zhang, Jane",jzhang,Instr Fac AY,+1.805.756.7528,020A-0307,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+560,EE 251_09,"Behpour, Kurt",kbehpour,Lecturer AY,+1.805.756.2781,020A-0200,lab,R,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+561,EE 271_01,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+562,EE 322_01,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+563,EE 375_05,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+564,EE 322_02,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+565,EE 375_04,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+566,EE 375_01,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,M,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+567,EE 375_07,"Bland, Chuck",ccbland,Lecturer AY,+1.805.756.1195,020-0131,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+568,EE 321_02,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+569,EE 361_03,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+570,EE 361_04,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+571,EE 321_03,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Electrical Engineering
+572,EE 201_04,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+573,EE 361_06,"Botros, Nazeih",nbotros,Lecturer AY,+1.805.756.2404,020-0117,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+574,EE 251_01,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lab,M,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+575,EE 251_04,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+576,EE 251_03,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+577,EE 201_01,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+578,EE 201_02,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+579,EE 201_03,"Chinichian, Mostafa",mchinich,Lecturer AY,+1.805.756.2149,020A-0208,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+580,EE P295 COP_13,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lab,F,12:10 PM,03:00 PM,NA,CENG-Electrical Engineering
+581,EE P255 COP_03,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lecture,MWF,10:10 AM,11:00 AM,NA,CENG-Electrical Engineering
+582,EE 255_04,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+583,EE 295_14,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lab,F,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+584,EE 295_08,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lab,W,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+585,EE 295_13,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lab,F,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+586,EE 295_09,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+587,EE 255_03,"Dehghan Banadaki, Ali",dehghanb,Lecturer AY,+1.805.756.2377,020A-0303,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+588,EE 504_01,"Dunton, Steve",sdunton,Lecturer AY,+1.805.756.2781,020A-0200,seminar,TR,08:10 AM,09:30 AM,999,CENG-Electrical Engineering
+589,EE 361_05,"Dunton, Steve",sdunton,Lecturer AY,+1.805.756.2781,020A-0200,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+590,EE 321_04,"Dunton, Steve",sdunton,Lecturer AY,+1.805.756.2781,020A-0200,lecture,TR,12:10 PM,01:30 PM,999,CENG-Electrical Engineering
+591,AERO 446_01,"Dunton, Steve",sdunton,Lecturer AY,+1.805.756.2781,020A-0200,lecture,TR,02:10 PM,04:00 PM,999,CENG-Electrical Engineering
+592,EE 504_02,"Dunton, Steve",sdunton,Lecturer AY,+1.805.756.2781,020A-0200,lab,T,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+593,EE 113_06,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Electrical Engineering
+594,EE 143_15,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lab,W,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+595,EE 143_12,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+596,EE 113_04,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+597,EE 143_10,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+598,EE 143_11,"Elhelbawy, Mona",melhelba,Lecturer AY,+1.805.756.1501,020-0117,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+599,EE 329_01,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+600,EE 329_11,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Electrical Engineering
+601,EE 329_12,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lab,MWF,05:10 PM,06:00 PM,999,CENG-Electrical Engineering
+602,EE P329 COP_01,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lecture,MWF,08:10 AM,09:00 AM,NA,CENG-Electrical Engineering
+603,EE P329 COP_02,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lab,MWF,09:10 AM,10:00 AM,NA,CENG-Electrical Engineering
+604,EE 329_02,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lab,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+605,EE 329_07,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+606,EE 329_08,"Hummel, Paul",phummel,Lecturer AY,+1.805.756.5618,020-0117,lab,MWF,01:10 PM,02:00 PM,999,CENG-Electrical Engineering
+607,EE 329_05,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+608,EE 329_04,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lab,MWF,10:10 AM,11:00 AM,999,CENG-Electrical Engineering
+609,EE 329_14,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lab,MWF,05:10 PM,06:00 PM,999,CENG-Electrical Engineering
+610,EE 329_03,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+611,EE 329_06,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lab,MWF,12:10 PM,01:00 PM,999,CENG-Electrical Engineering
+612,EE 329_13,"Malek, Amin",amalekmo,Lecturer AY,+1.805.756.6329,116-0216,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Electrical Engineering
+613,EE 347_05,"McDonald, David",dbmcdona,Lecturer AY,+1.805.756.2781,020A-0200,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+614,EE 361_01,"McDonald, David",dbmcdona,Lecturer AY,+1.805.756.2781,020A-0200,lab,M,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+615,EE 347_03,"McDonald, David",dbmcdona,Lecturer AY,+1.805.756.2781,020A-0200,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+616,EE 347_01,"McDonald, David",dbmcdona,Lecturer AY,+1.805.756.2781,020A-0200,lab,T,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+617,EE 361_02,"McDonald, David",dbmcdona,Lecturer AY,+1.805.756.2781,020A-0200,lab,M,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+618,EE P228 COP_03,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lecture,MW,12:10 PM,02:00 PM,NA,CENG-Electrical Engineering
+619,EE 342_02,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+620,EE 302_01,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+621,EE 342_03,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+622,EE 228_03,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lecture,MW,12:10 PM,02:00 PM,999,CENG-Electrical Engineering
+623,EE 342_01,"McKell, Clay",kmckell,Lecturer AY,+1.805.756.5689,020A-0207,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+624,CPE 450_02,"Murray, Rich",rimurray,Lecturer AY,+1.805.756.2781,020A-0200,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+625,EE 563_01,"Murray, Rich",rimurray,Lecturer AY,+1.805.756.2781,020A-0200,seminar,F,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+626,CPE 450_01,"Murray, Rich",rimurray,Lecturer AY,+1.805.756.2781,020A-0200,lecture,T,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+627,EE 462_23,"Murray, Rich",rimurray,Lecturer AY,+1.805.756.2781,020A-0200,independent,NA,NA,NA,NA,CENG-Electrical Engineering
+628,EE 242_02,"Muscarella, Maxwell",mmuscare,Lecturer AY,+1.805.756.2254,116-0215,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+629,EE 242_03,"Muscarella, Maxwell",mmuscare,Lecturer AY,+1.805.756.2254,116-0215,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+630,EE 251_07,"Muscarella, Maxwell",mmuscare,Lecturer AY,+1.805.756.2254,116-0215,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+631,EE 143_02,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+632,EE 143_16,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lab,F,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+633,EE 113_01,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+634,EE 113_02,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+635,EE 143_14,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lab,F,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+636,EE 143_01,"Perks, Gary",gperks,Lecturer AY,+1.805.756.1463,020A-0319,lab,M,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+637,EE 241_02,"Rairkar, Asit",arairkar,Lecturer AY,+1.805.756.2254,116-0215,lab,T,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+638,EE 241_01,"Rairkar, Asit",arairkar,Lecturer AY,+1.805.756.2254,116-0215,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+639,EE 251_02,"Sparks, Joseph",jbsparks,Lecturer AY,+1.805.756.2781,020A-0200,lab,M,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+640,EE 251_10,"Sparks, Joseph",jbsparks,Lecturer AY,+1.805.756.2781,020A-0200,lab,F,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+641,EE 201_06,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Electrical Engineering
+642,EE 251_06,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+643,EE 251_05,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+644,EE 251_08,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lab,R,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+645,EE 321_01,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Electrical Engineering
+646,EE 201_05,"Trada, Hiren",htrada,Lecturer AY,+1.805.756.2516,020-0131,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Electrical Engineering
+647,EE 346_02,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+648,EE 242_05,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+649,EE 242_06,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lab,F,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+650,EE 346_01,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lab,T,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+651,EE 211_01,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Electrical Engineering
+652,EE 306_01,"Vyas, Siddharth",sivyas,Lecturer AY,+1.805.756.6331,020-0117,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Electrical Engineering
+653,EE 348_03,"Wilson, Mike",mwilso03,Lecturer AY,+1.805.756.6341,020-0118A,lab,T,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+654,EE 348_08,"Wilson, Mike",mwilso03,Lecturer AY,+1.805.756.6341,020-0118A,lab,R,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+655,EE 348_06,"Wilson, Mike",mwilso03,Lecturer AY,+1.805.756.6341,020-0118A,lab,W,03:10 PM,06:00 PM,999,CENG-Electrical Engineering
+656,EE 348_07,"Wilson, Mike",mwilso03,Lecturer AY,+1.805.756.6341,020-0118A,lab,R,08:10 AM,11:00 AM,999,CENG-Electrical Engineering
+657,EE 348_02,"Wilson, Mike",mwilso03,Lecturer AY,+1.805.756.6341,020-0118A,lab,T,12:10 PM,03:00 PM,999,CENG-Electrical Engineering
+658,EE 143_13,"Luong, Nicholas",niluong,Teaching Associate AY,+1.760.579.1488,NA,lab,R,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+659,EE 143_08,"Shintani, Aiku",shintani,Teaching Associate AY,+1.858.254.2875,NA,lab,T,06:10 PM,09:00 PM,999,CENG-Electrical Engineering
+660,IME 500_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+661,IME P450 COP_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,lecture,TR,04:40 PM,06:00 PM,NA,CENG-Industrial & Manufacturing Engineering
+662,IME 442_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,lab,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+663,IME 450_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,lecture,TR,04:40 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+664,IME 400 /2_02,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+665,IME 400_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+666,IME 200_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+667,IME 441_01,"Waldorf, Daniel",dwaldorf,Dept Chair - IME,+1.805.756.2908,192-0223B,lab,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+668,IME 483_03,"Awwad, Mohamed",mawwad,Instr Fac AY,+1.805.756.6243,192-0226,lab,M,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+669,IME 443_01,"Awwad, Mohamed",mawwad,Instr Fac AY,+1.805.756.6243,192-0226,lecture,TR,09:40 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+670,IME 443_02,"Awwad, Mohamed",mawwad,Instr Fac AY,+1.805.756.6243,192-0226,lab,T,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+671,IME 417_01,"Awwad, Mohamed",mawwad,Instr Fac AY,+1.805.756.6243,192-0226,lecture,TR,07:10 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+672,DEV10 E889 CEU /2_01,"Colvin, Kurt",kcolvin,Instr Fac AY,+1.805.756.2633,041A-0123,lecture,TR,04:00 PM,06:30 PM,NA,CENG-Industrial & Manufacturing Engineering
+673,GSB S570 SSD /2_02,"Colvin, Kurt",kcolvin,Instr Fac AY,+1.805.756.2633,041A-0123,seminar,W,12:10 PM,02:00 PM,003-0305,CENG-Industrial & Manufacturing Engineering
+674,IME 596_01,"Freed, Tali",tfreed,Instr Fac AY,+1.805.756.2544,192-0227,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+675,IME 483_02,"Freed, Tali",tfreed,Instr Fac AY,+1.805.756.2544,192-0227,lab,M,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+676,IME 483_01,"Freed, Tali",tfreed,Instr Fac AY,+1.805.756.2544,192-0227,lecture,W,05:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+677,IME 482_01,"Freed, Tali",tfreed,Instr Fac AY,+1.805.756.2544,192-0227,lecture,R,10:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+678,IME 541_01,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lecture,TR,07:40 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+679,IME 541_02,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lab,W,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+680,IME 599_05,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+681,IME P541 COP_01,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lecture,TR,07:40 AM,09:00 AM,NA,CENG-Industrial & Manufacturing Engineering
+682,IME P541 COP_02,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lab,W,03:10 PM,06:00 PM,NA,CENG-Industrial & Manufacturing Engineering
+683,IME 420_03,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+684,IME 420_02,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lab,W,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+685,IME 420_01,"Hill, Alessandro",ahill29,Instr Fac AY,+1.805.756.7654,192-0234,lecture,TR,03:10 PM,04:30 PM,999,CENG-Industrial & Manufacturing Engineering
+686,IME 599_06,"Jafari, Roy",rojafari,Instr Fac AY,+1.805.756.7647,192-0232,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+687,IME 520_01,"Jafari, Roy",rojafari,Instr Fac AY,+1.805.756.7647,192-0232,seminar,MW,12:10 PM,02:00 PM,999,CENG-Industrial & Manufacturing Engineering
+688,IME 430_01,"Macedo, Jose",jmacedo,Instr Fac AY,+1.805.756.1147,192-0230,lecture,MW,10:10 AM,12:00 PM,999,CENG-Industrial & Manufacturing Engineering
+689,IME 356_01,"Macedo, Jose",jmacedo,Instr Fac AY,+1.805.756.1147,192-0230,lecture,TR,03:10 PM,04:30 PM,999,CENG-Industrial & Manufacturing Engineering
+690,IME 356_02,"Macedo, Jose",jmacedo,Instr Fac AY,+1.805.756.1147,192-0230,lab,T,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+691,IME 326_02,"Pan, John",pan,Instr Fac AY,+1.805.756.2540,192-0235,lecture,TR,09:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+692,IME 599_10,"Pan, John",pan,Instr Fac AY,+1.805.756.2540,192-0235,independent,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+693,IME 580_01,"Pouraghabagher, Reza",rpouragh,Instr Fac AY,+1.805.756.1111,NA,seminar,TR,12:10 PM,02:00 PM,999,CENG-Industrial & Manufacturing Engineering
+694,IME 326_01,"Pouraghabagher, Reza",rpouragh,Instr Fac AY,+1.805.756.1111,NA,lecture,TR,09:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+695,IME 327_06,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+696,IME 327_05,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lecture,MW,07:40 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+697,IME 418_02,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lab,R,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+698,IME 432_03,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lecture,MW,06:10 PM,07:30 PM,999,CENG-Industrial & Manufacturing Engineering
+699,IME 432_04,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lab,M,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+700,IME 418_01,"Wang, Xuan",xwang12,Instr Fac AY,+1.805.756.2137,041A-0222,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Industrial & Manufacturing Engineering
+701,IME 312_01,"Yang, Tao",tyang,Instr Fac AY,+1.805.756.2810,192-0236,lecture,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+702,CSC 232_01,"Yang, Tao",tyang,Instr Fac AY,+1.805.756.2810,192-0236,lecture,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+703,CSC 232_02,"Yang, Tao",tyang,Instr Fac AY,+1.805.756.2810,192-0236,activity,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+704,IME 312_03,"Yang, Tao",tyang,Instr Fac AY,+1.805.756.2810,192-0236,lab,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+705,IME 312_02,"Yang, Tao",tyang,Instr Fac AY,+1.805.756.2810,192-0236,lab,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+706,IME 556_01,"Applin, Bradford",bapplin,Lecturer AY,+1.805.756.2341,192-0223,seminar,TR,04:40 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+707,IME 556_02,"Applin, Bradford",bapplin,Lecturer AY,+1.805.756.2341,192-0223,lab,W,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+708,IME 319_01,"Applin, Bradford",bapplin,Lecturer AY,+1.805.756.2341,192-0223,lecture,TR,07:40 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+709,IME 303_01,"Callow, Ginni",vcallowa,Lecturer AY,+1.805.756.7648,192-0238B,lecture,MW,09:40 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+710,IME 223_02,"Callow, Ginni",vcallowa,Lecturer AY,+1.805.756.7648,192-0238B,lab,W,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+711,IME 223_01,"Callow, Ginni",vcallowa,Lecturer AY,+1.805.756.7648,192-0238B,lecture,TR,08:10 AM,09:30 AM,999,CENG-Industrial & Manufacturing Engineering
+712,IME 303_02,"Callow, Ginni",vcallowa,Lecturer AY,+1.805.756.7648,192-0238B,lab,T,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+713,MATE 210_08,"Carichner, Karla",kcarichn,Lecturer AY,+1.805.756.1180,092M-A103,lecture,TR,09:40 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+714,ENGR 461_03,"Carichner, Karla",kcarichn,Lecturer AY,+1.805.756.1180,092M-A103,lab,TR,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+715,BMED 212_01,"Carichner, Karla",kcarichn,Lecturer AY,+1.805.756.1180,092M-A103,lecture,TR,03:10 PM,04:00 PM,999,CENG-Industrial & Manufacturing Engineering
+716,IME 401_01,"Carichner, Karla",kcarichn,Lecturer AY,+1.805.756.1180,092M-A103,seminar,F,09:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+717,IME 141_07,"Carter, Rob",rvcarter,Lecturer AY,+1.805.756.2739,041-0105,lab,T,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+718,IME 156_03,"Carter, Rob",rvcarter,Lecturer AY,+1.805.756.2739,041-0105,lab,T,08:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+719,IME 156_01,"Carter, Rob",rvcarter,Lecturer AY,+1.805.756.2739,041-0105,lecture,R,08:10 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+720,IME 141_05,"Carter, Rob",rvcarter,Lecturer AY,+1.805.756.2739,041-0105,lab,W,09:10 AM,12:00 PM,999,CENG-Industrial & Manufacturing Engineering
+721,IME 141_01,"Carter, Rob",rvcarter,Lecturer AY,+1.805.756.2739,041-0105,lab,M,09:10 AM,12:00 PM,999,CENG-Industrial & Manufacturing Engineering
+722,IME 314_01,"Catto, Sara",scatto,Lecturer AY,+1.805.756.6115,192-0219,lecture,MW,05:40 PM,07:00 PM,999,CENG-Industrial & Manufacturing Engineering
+723,IME 305_02,"Cheng, Nianpin",ncheng,Lecturer AY,+1.805.756.1180,092M-A103,activity,F,09:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+724,IME 305_01,"Cheng, Nianpin",ncheng,Lecturer AY,+1.805.756.1180,092M-A103,lecture,TR,12:10 PM,01:30 PM,999,CENG-Industrial & Manufacturing Engineering
+725,STAT 321_02,"Cheng, Nianpin",ncheng,Lecturer AY,+1.805.756.1180,092M-A103,lecture,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+726,IME 146_04,"Debernardi, Kyle",kdeberna,Lecturer AY,+1.805.756.6260,092M-A101,lab,T,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+727,IME 315_01,"Franchi, Daniel",dfranchi,Lecturer AY,+1.805.756.5992,092M-A110,lecture,M,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+728,IME 301_01,"Franchi, Daniel",dfranchi,Lecturer AY,+1.805.756.5992,092M-A110,lecture,M,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+729,IME 460_01,"Franchi, Daniel",dfranchi,Lecturer AY,+1.805.756.5992,092M-A110,lecture,M,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+730,IME 410_01,"Franchi, Trevor",tfranchi,Lecturer AY,+1.805.756.5992,092M-A110,lecture,TR,04:40 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+731,IME 410_02,"Franchi, Trevor",tfranchi,Lecturer AY,+1.805.756.5992,092M-A110,lab,W,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+732,IME P450 COP_03,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,F,12:10 PM,03:00 PM,NA,CENG-Industrial & Manufacturing Engineering
+733,IME P143 COP_01,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lecture,W,03:10 PM,04:00 PM,NA,CENG-Industrial & Manufacturing Engineering
+734,IME 143_01,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lecture,W,03:10 PM,04:00 PM,999,CENG-Industrial & Manufacturing Engineering
+735,IME 143_02,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,M,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+736,IME 143_03,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,M,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+737,IME 146_02,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,T,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+738,IME 450_02,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,W,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+739,IME 144_01,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lecture,F,07:10 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+740,IME 450_03,"Georgeou, Trian",tgeorgeo,Lecturer AY,+1.805.756.2157,041A-0124,lab,F,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+741,IME 146_03,"Hamann, Kris",krhamann,Lecturer AY,+1.805.756.2739,041-0105,lab,T,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+742,IME 144_05,"Hamann, Kris",krhamann,Lecturer AY,+1.805.756.2739,041-0105,lab,MW,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+743,IME P141 COP_06,"Koch, Martin",mkoch,Lecturer AY,+1.805.756.1114,192-0241B,lab,W,12:10 PM,03:00 PM,NA,CENG-Industrial & Manufacturing Engineering
+744,IME 141_04,"Koch, Martin",mkoch,Lecturer AY,+1.805.756.1114,192-0241B,lab,T,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+745,IME 141_06,"Koch, Martin",mkoch,Lecturer AY,+1.805.756.1114,192-0241B,lab,W,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+746,IME 141_02,"Koch, Martin",mkoch,Lecturer AY,+1.805.756.1114,192-0241B,lab,M,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+747,IME 141_03,"Koch, Martin",mkoch,Lecturer AY,+1.805.756.1114,192-0241B,lab,M,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+748,IME 146_08,"Murphy, Sean",smurph19,Lecturer AY,+1.805.756.2341,192-0223,lab,R,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+749,IME 143_04,"Murphy, Sean",smurph19,Lecturer AY,+1.805.756.2341,192-0223,lab,F,08:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+750,IME P143 COP_04,"Murphy, Sean",smurph19,Lecturer AY,+1.805.756.2341,192-0223,lab,F,08:10 AM,11:00 AM,NA,CENG-Industrial & Manufacturing Engineering
+751,MATE 210_11,"Paton, Eric",enpaton,Lecturer AY,+1.805.756.1270,092M-A105,lecture,TR,03:10 PM,04:30 PM,999,CENG-Industrial & Manufacturing Engineering
+752,IME 482_02,"Paton, Eric",enpaton,Lecturer AY,+1.805.756.1270,092M-A105,lab,W,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+753,IME 156_02,"Paton, Eric",enpaton,Lecturer AY,+1.805.756.1270,092M-A105,lab,M,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+754,MATE 210_07,"Paton, Eric",enpaton,Lecturer AY,+1.805.756.1270,092M-A105,lecture,TR,08:10 AM,09:30 AM,999,CENG-Industrial & Manufacturing Engineering
+755,IME 156_05,"Paton, Eric",enpaton,Lecturer AY,+1.805.756.1270,092M-A105,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+756,IME 424_01,"Speece, Jill",jespeece,Lecturer AY,+1.805.756.6243,192-0226,lecture,F,12:10 PM,04:00 PM,999,CENG-Industrial & Manufacturing Engineering
+757,IME 142_07,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,F,09:10 AM,12:00 PM,999,CENG-Industrial & Manufacturing Engineering
+758,IME 142_02,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,T,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+759,IME 142_03,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,W,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+760,IME 142_06,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,R,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+761,IME 142_04,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,W,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+762,IME 142_01,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lecture,F,08:10 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+763,IME 142_05,"Williams, Kevin",kwilli02,Lecturer AY,+1.805.756.6260,092M-A101,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+764,IME 146_06,"Zimmerman, Jeffrey",jjzimmer,Lecturer AY,+1.805.756.1750,041A-0124,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+765,IME 443_03,"Zimmerman, Jeffrey",jjzimmer,Lecturer AY,+1.805.756.1750,041A-0124,lecture,MW,07:40 AM,09:00 AM,999,CENG-Industrial & Manufacturing Engineering
+766,IME 443_04,"Zimmerman, Jeffrey",jjzimmer,Lecturer AY,+1.805.756.1750,041A-0124,lab,F,08:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+767,IME 144_03,"Zimmerman, Jeffrey",jjzimmer,Lecturer AY,+1.805.756.1750,041A-0124,lab,MW,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+768,IME 144_04,"Zimmerman, Jeffrey",jjzimmer,Lecturer AY,+1.805.756.1750,041A-0124,lab,MW,03:10 PM,06:00 PM,999,CENG-Industrial & Manufacturing Engineering
+769,IME 429_02,"Crooks, Kyle",kcrooks,Teaching Associate AY,+1.805.756.2341,192-0223,lab,R,12:10 PM,03:00 PM,999,CENG-Industrial & Manufacturing Engineering
+770,IME 429_01,"Crooks, Kyle",kcrooks,Teaching Associate AY,+1.805.756.2341,192-0223,lab,M,06:10 PM,09:00 PM,999,CENG-Industrial & Manufacturing Engineering
+771,IME 301_02,"Hensley, Tori",vhensley,Teaching Associate AY,+1.805.756.2341,192-0223,activity,W,03:10 PM,05:00 PM,999,CENG-Industrial & Manufacturing Engineering
+772,IME 471_02,"Stella, Audrey",alansdow,Teaching Associate AY,+1.805.756.2341,192-0223,lab,NA,NA,NA,NA,CENG-Industrial & Manufacturing Engineering
+773,IME 470_02,"Stella, Audrey",alansdow,Teaching Associate AY,+1.805.756.2341,192-0223,lecture,T,06:10 PM,07:00 PM,999,CENG-Industrial & Manufacturing Engineering
+774,IME 144_02,"Lutz, Bryan",brlutz,"Equip Tech III, Electro-Mechnl",+1.805.756.7404,041A-0104,lab,MW,08:10 AM,11:00 AM,999,CENG-Industrial & Manufacturing Engineering
+775,AERO 500_07,"Marshall, David",ddmarsha,Dept Chair - Aerospace Engr,+1.805.756.6849,041A-0135,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+776,AERO 400_07,"Marshall, David",ddmarsha,Dept Chair - Aerospace Engr,+1.805.756.6849,041A-0135,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+777,AERO 405_01,"Marshall, David",ddmarsha,Dept Chair - Aerospace Engr,+1.805.756.6849,041A-0135,lecture,TR,12:10 PM,02:00 PM,999,CENG-Aerospace Engineering
+778,AERO P400 COP_02,"Abercromby, Kira",kabercro,Instr Fac AY,+1.805.756.6476,041A-0131,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+779,AERO 599_02,"Abercromby, Kira",kabercro,Instr Fac AY,+1.805.756.6476,041A-0131,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+780,AERO 200_02,"Abercromby, Kira",kabercro,Instr Fac AY,+1.805.756.6476,041A-0131,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+781,AERO 400_02,"Abercromby, Kira",kabercro,Instr Fac AY,+1.805.756.6476,041A-0131,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+782,AERO 455_01,"Abercromby, Kira",kabercro,Instr Fac AY,+1.805.756.6476,041A-0131,lecture,TR,12:10 PM,02:00 PM,999,CENG-Aerospace Engineering
+783,AERO 300_01,"Deffo, Arnold",adeffo,Instr Fac AY,+1.805.756.7105,041A-0128,lecture,MW,10:10 AM,12:00 PM,999,CENG-Aerospace Engineering
+784,AERO 300_02,"Deffo, Arnold",adeffo,Instr Fac AY,+1.805.756.7105,041A-0128,lab,W,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+785,AERO 541_01,"DeTurris, Dianne",ddeturri,Instr Fac AY,+1.805.756.1515,013-0267,seminar,MW,10:10 AM,12:00 PM,999,CENG-Aerospace Engineering
+786,AERO 599_04,"DeTurris, Dianne",ddeturri,Instr Fac AY,+1.805.756.1515,013-0267,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+787,AERO 299_05,"DeTurris, Dianne",ddeturri,Instr Fac AY,+1.805.756.1515,013-0267,lab,F,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+788,AERO 299_01,"DeTurris, Dianne",ddeturri,Instr Fac AY,+1.805.756.1515,013-0267,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Aerospace Engineering
+789,AERO 299_02,"DeTurris, Dianne",ddeturri,Instr Fac AY,+1.805.756.1515,013-0267,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Aerospace Engineering
+790,AERO 599_03,"Drake, Aaron",agdrake,Instr Fac AY,+1.805.756.2577,041A-0133,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+791,AERO 445 /2_02,"Drake, Aaron",agdrake,Instr Fac AY,+1.805.756.2577,041A-0133,lab,MWF,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+792,AERO 445 /2_01,"Drake, Aaron",agdrake,Instr Fac AY,+1.805.756.2577,041A-0133,lab,MWF,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+793,AERO 449 /2_02,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lab,MWF,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+794,AERO 500_08,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+795,AERO 599_10,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+796,AERO 400_10,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+797,AERO 449 /2_01,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lab,MWF,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+798,AERO 220_02,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lab,T,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+799,AERO 220_03,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lab,R,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+800,AERO 470_01,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lecture,MTWR,07:10 AM,08:00 AM,999,CENG-Aerospace Engineering
+801,AERO 350 /2_01,"Faure, Pauline",pfaure,Instr Fac AY,+1.805.756.6043,041A-0127,lecture,TR,09:10 AM,10:00 AM,999,CENG-Aerospace Engineering
+802,AERO 500_09,"Iscold, Paulo",piscold,Instr Fac AY,+1.805.756.7235,041A-0132,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+803,AERO 599_08,"Iscold, Paulo",piscold,Instr Fac AY,+1.805.756.7235,041A-0132,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+804,AERO 400_11,"Iscold, Paulo",piscold,Instr Fac AY,+1.805.756.7235,041A-0132,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+805,AERO 599_06,"Kolkailah, Faysal",fkolkail,Instr Fac AY,+1.805.756.2393,192-0325,independent,NA,NA,NA,NA,CENG-Aerospace Engineering
+806,AERO 431_01,"Kolkailah, Faysal",fkolkail,Instr Fac AY,+1.805.756.2393,192-0325,lecture,TR,06:10 PM,08:00 PM,999,CENG-Aerospace Engineering
+807,AERO 431_02,"Kolkailah, Faysal",fkolkail,Instr Fac AY,+1.805.756.2393,192-0325,lecture,TR,04:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+808,AERO 310_03,"Biezad, Dan",dbiezad,Lecturer AY,+1.805.756.7172,041-0132,lecture,MW,12:10 PM,02:00 PM,999,CENG-Aerospace Engineering
+809,AERO 310_01,"Biezad, Dan",dbiezad,Lecturer AY,+1.805.756.7172,041-0132,lecture,MW,08:10 AM,10:00 AM,999,CENG-Aerospace Engineering
+810,AERO 356_05,"Saucier, William",wsaucier,Lecturer AY,+1.805.756.6803,041-0130,lab,W,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+811,AERO 356_03,"Saucier, William",wsaucier,Lecturer AY,+1.805.756.6803,041-0130,lab,M,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+812,AERO 356_02,"Saucier, William",wsaucier,Lecturer AY,+1.805.756.6803,041-0130,lab,M,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+813,AERO 356_04,"Saucier, William",wsaucier,Lecturer AY,+1.805.756.6803,041-0130,lab,W,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+814,AERO 356_01,"Saucier, William",wsaucier,Lecturer AY,+1.805.756.6803,041-0130,lecture,MW,10:10 AM,11:00 AM,999,CENG-Aerospace Engineering
+815,AERO 570_01,"Wait, Dan",djwait,Lecturer AY,+1.805.756.6802,041-0129,lecture,TR,04:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+816,AERO 220_01,"Wait, Dan",djwait,Lecturer AY,+1.805.756.6802,041-0129,lab,T,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+817,AERO 299_08,"Bluhm, Alec",abluhm,Teaching Associate AY,+1.805.756.7172,041-0132,lab,T,08:10 AM,11:00 AM,999,CENG-Aerospace Engineering
+818,AERO 299_04,"Bluhm, Alec",abluhm,Teaching Associate AY,+1.805.756.7172,041-0132,lab,W,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+819,AERO 307_02,"Bodkin, Luke",lbodkin,Teaching Associate AY,+1.805.756.7172,041-0132,lab,MW,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+820,AERO 465_04,"Doughty, Emily",eadought,Teaching Associate AY,+1.805.756.7172,041-0132,lab,T,08:10 AM,11:00 AM,999,CENG-Aerospace Engineering
+821,IME 146_07,"Graef, Jared",jgraef,Teaching Associate AY,+1.805.756.7172,041-0132,lab,R,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+822,AERO 300_07,"Graef, Jared",jgraef,Teaching Associate AY,+1.805.756.7172,041-0132,lab,R,08:10 AM,11:00 AM,999,CENG-Aerospace Engineering
+823,AERO 300_06,"Graef, Jared",jgraef,Teaching Associate AY,+1.805.756.7172,041-0132,lab,M,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+824,AERO 433_01,"Graef, Jared",jgraef,Teaching Associate AY,+1.805.756.7172,041-0132,lab,T,08:10 AM,11:00 AM,999,CENG-Aerospace Engineering
+825,AERO 569_02,"Horton, Damien",dlhorton,Teaching Associate AY,+1.805.756.7172,041-0132,lab,TR,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+826,AERO 569_01,"Horton, Damien",dlhorton,Teaching Associate AY,+1.805.756.7172,041-0132,lecture,M,08:10 AM,10:00 AM,999,CENG-Aerospace Engineering
+827,AERO 300_04,"Johnson, James",jjohn145,Teaching Associate AY,+1.805.756.7172,041-0132,lab,M,06:10 PM,09:00 PM,999,CENG-Aerospace Engineering
+828,AERO 300_03,"Johnson, James",jjohn145,Teaching Associate AY,+1.805.756.7172,041-0132,lab,F,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+829,AERO 299_06,"Kenworthy, Benjamin",bkenwort,Teaching Associate AY,+1.805.756.7172,041-0132,lab,M,06:10 PM,09:00 PM,999,CENG-Aerospace Engineering
+830,AERO 299_03,"Kenworthy, Benjamin",bkenwort,Teaching Associate AY,+1.805.756.7172,041-0132,lab,M,03:10 PM,06:00 PM,999,CENG-Aerospace Engineering
+831,AERO 299_07,"Kenworthy, Benjamin",bkenwort,Teaching Associate AY,+1.805.756.7172,041-0132,lab,F,09:10 AM,12:00 PM,999,CENG-Aerospace Engineering
+832,AERO 465_03,"Malloy, Griff",mgmalloy,Teaching Associate AY,+1.805.756.7172,041-0132,lab,R,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+833,AERO 300_05,"Roberts, Kent",krober22,Teaching Associate AY,+1.805.756.7172,041-0132,lab,F,09:10 AM,12:00 PM,999,CENG-Aerospace Engineering
+834,AERO 307_01,"Rosescu, Justin",jrosescu,Teaching Associate AY,+1.805.756.7172,041-0132,lab,MW,12:10 PM,03:00 PM,999,CENG-Aerospace Engineering
+835,AERO 433_02,"Venenga, Eric",evenenga,Teaching Associate AY,+1.805.756.7172,041-0132,lab,R,09:10 AM,12:00 PM,999,CENG-Aerospace Engineering
+836,MATE 215_09,"Beyramali Kivy, Mohsen",mbeyrama,Instr Fac AY,+1.805.756.1537,041A-0226,lab,W,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+837,MATE 484 /2_02,"Beyramali Kivy, Mohsen",mbeyrama,Instr Fac AY,+1.805.756.1537,041A-0226,lab,TR,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+838,MATE 403_01,"Beyramali Kivy, Mohsen",mbeyrama,Instr Fac AY,+1.805.756.1537,041A-0226,lecture,MW,12:10 PM,02:00 PM,999,CENG-Materials Engineering
+839,MATE P403 COP_01,"Beyramali Kivy, Mohsen",mbeyrama,Instr Fac AY,+1.805.756.1537,041A-0226,lecture,MW,12:10 PM,02:00 PM,NA,CENG-Materials Engineering
+840,MATE 210_02,"Lee, Jean",jlee473,Instr Fac AY,+1.805.756.6571,013-0227,lecture,MW,04:10 PM,05:30 PM,999,CENG-Materials Engineering
+841,MATE 400_05,"Lee, Jean",jlee473,Instr Fac AY,+1.805.756.6571,013-0227,independent,NA,NA,NA,NA,CENG-Materials Engineering
+842,MATE P485 COP_02,"Lee, Jean",jlee473,Instr Fac AY,+1.805.756.6571,013-0227,lecture,MW,02:10 PM,04:00 PM,NA,CENG-Materials Engineering
+843,MATE 485_02,"Lee, Jean",jlee473,Instr Fac AY,+1.805.756.6571,013-0227,lecture,MW,02:10 PM,04:00 PM,999,CENG-Materials Engineering
+844,MATE 360_02,"London, Blair",blondon,Instr Fac AY,+1.805.756.2536,116-0214,lab,M,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+845,MATE 484 /2_01,"London, Blair",blondon,Instr Fac AY,+1.805.756.2536,116-0214,lab,TR,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+846,MATE 360_01,"London, Blair",blondon,Instr Fac AY,+1.805.756.2536,116-0214,lecture,TR,08:10 AM,09:30 AM,999,CENG-Materials Engineering
+847,MATE 215_01,"Ghent, Christine",cghent,Lecturer AY,+1.805.756.1270,092M-A105,lab,M,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+848,MATE 215_02,"Ghent, Christine",cghent,Lecturer AY,+1.805.756.1270,092M-A105,lab,M,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+849,MATE 215_03,"Ghent, Christine",cghent,Lecturer AY,+1.805.756.1270,092M-A105,lab,M,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+850,MATE 210_10,"Johnson-Glauch, Nicole",njohns66,Lecturer AY,+1.805.756.6634,041A-0225,lecture,TR,01:40 PM,03:00 PM,999,CENG-Materials Engineering
+851,MATE 215_10,"Johnson-Glauch, Nicole",njohns66,Lecturer AY,+1.805.756.6634,041A-0225,lab,W,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+852,MATE 215_13,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,R,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+853,MATE 310_04,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,F,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+854,MATE 310_01,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lecture,TR,03:10 PM,04:30 PM,999,CENG-Materials Engineering
+855,MATE 215_17,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,F,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+856,MATE 484 /2_03,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,TR,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+857,MATE 310_03,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,W,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+858,MATE 215_05,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,T,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+859,MATE 310_02,"Mengistie, Desalegn",dmengist,Lecturer AY,+1.805.756.6634,041A-0225,lab,M,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+860,MATE 130_01,"Nelson, John",jgnelson,Lecturer AY,+1.805.756.6441,092M-A106,lab,T,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+861,MATE 210_13,"Nelson, John",jgnelson,Lecturer AY,+1.805.756.6441,092M-A106,lecture,TR,05:10 PM,06:30 PM,999,CENG-Materials Engineering
+862,MATE 327_02,"Sadique, Sarder",ssadique,Lecturer AY,+1.805.756.6426,041A-0224,lab,F,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+863,MATE 210_03,"Sadique, Sarder",ssadique,Lecturer AY,+1.805.756.6426,041A-0224,lecture,MW,04:40 PM,06:00 PM,999,CENG-Materials Engineering
+864,MATE 210_12,"Sadique, Sarder",ssadique,Lecturer AY,+1.805.756.6426,041A-0224,lecture,TR,04:40 PM,06:00 PM,999,CENG-Materials Engineering
+865,MATE 327_01,"Sadique, Sarder",ssadique,Lecturer AY,+1.805.756.6426,041A-0224,lab,W,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+866,MATE 360_03,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lab,W,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+867,MATE 350_05,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lab,M,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+868,MATE 350_01,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lecture,TR,09:40 AM,11:00 AM,999,CENG-Materials Engineering
+869,MATE 350_03,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lab,W,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+870,MATE 360_04,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lab,F,08:10 AM,11:00 AM,999,CENG-Materials Engineering
+871,MATE 350_04,"Smith, Ryan",rsmith91,Lecturer AY,+1.805.756.6426,041A-0224,lab,F,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+872,MATE 215_14,"Drewery, Claire",cdrewery,Teaching Associate AY,+1.805.756.2568,041A-0229,lab,R,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+873,MATE 215_07,"Drewery, Claire",cdrewery,Teaching Associate AY,+1.805.756.2568,041A-0229,lab,T,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+874,MATE 215_06,"Drewery, Claire",cdrewery,Teaching Associate AY,+1.805.756.2568,041A-0229,lab,T,12:10 PM,03:00 PM,999,CENG-Materials Engineering
+875,MATE 215_15,"Drewery, Claire",cdrewery,Teaching Associate AY,+1.805.756.2568,041A-0229,lab,R,03:10 PM,06:00 PM,999,CENG-Materials Engineering
+876,MATE 210_09,"Beaton, Eric",erbeaton,Instructional Support Tech II,+1.805.756.2518,041B-0142,lecture,TR,12:10 PM,01:30 PM,999,CENG-Materials Engineering
+877,CSC 400_30,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+878,CPE 315_10,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+879,CPE P315 COP_10,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,lab,MWF,09:10 AM,10:00 AM,NA,CENG-Computer Science & Software Engineering
+880,CSC 593_01,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+881,CSC 491_15,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+882,CSC 493_01,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+883,CSC 492_15,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+884,CSC 597_15,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+885,CPE 462_16,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+886,CSC 492_33,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+887,CPE 315_09,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+888,CSC 492_16,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+889,CSC 491_40,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+890,CSC 400_40,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+891,CSC 492_40,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+892,CSC 492_30,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+893,CSC 492_36,"Lupo, Christopher",clupo,Dept Chair Comp Sci & Soft Eng,+1.805.756.5659,014-0254B,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+894,CSC 448_02,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+895,CPE 462_11,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+896,CSC 491_02,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+897,CSC 400_02,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+898,CSC 448_01,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+899,CSC 497_02,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+900,CSC 492_02,"Anderson, Paul",pander14,Instr Fac AY,+1.805.756.7178,014-0222,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+901,CPE 400_06,"Bellardo, John",bellardo,Instr Fac AY,+1.805.756.7256,014-0235D,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+902,CSC 400_03,"Bellardo, John",bellardo,Instr Fac AY,+1.805.756.7256,014-0235D,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+903,CSC 492_03,"Bellardo, John",bellardo,Instr Fac AY,+1.805.756.7256,014-0235D,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+904,CSC 430_07,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+905,CSC 430_08,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+906,CSC 430_03,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+907,CSC 430_04,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+908,CSC 597_04,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+909,CSC 491_04,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+910,CSC 492_04,"Clements, John",clements,Instr Fac AY,+1.805.756.6528,014-0208,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+911,CSC 309_01,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+912,CSC 309_02,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+913,CSC 307_01,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+914,CSC 307_02,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+915,CSC 497_05,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+916,CSC 400_05,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+917,CSC 492_05,"da Silva, Bruno",bcdasilv,Instr Fac AY,+1.805.756.5541,014-0223,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+918,CPE 321_04,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+919,CPE 321_03,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+920,CPE 462_07,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+921,CSC 492_06,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+922,CSC 599_06,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+923,CSC 400_06,"DeBruhl, Bruce",bdebruhl,Instr Fac AY,+1.805.756.1392,014-0214,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+924,CSC 498_07,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+925,CSC 597_07,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+926,CSC 369_01,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+927,CSC 369_02,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+928,CSC 491_07,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+929,CSC 599_07,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+930,CSC 492_07,"Dekhtyar, Alexander",dekhtyar,Instr Fac AY,+1.805.756.2387,014-0210,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+931,CSC 498_08,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+932,CSC 450_02,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,activity,TR,12:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+933,CSC 377_03,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+934,CSC 377_04,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+935,CPE 462_23,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+936,CSC 492_08,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+937,CSC 400_08,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+938,CSC 597_08,"Eckhardt, Christian",eckhardt,Instr Fac AY,+1.805.756.2416,014-0221,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+939,CSC 308_02,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+940,CSC 308_01,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+941,CSC 309_03,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+942,CSC 309_04,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+943,CSC 599_09,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+944,CSC 400_09,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+945,CSC 492_09,"Falessi, Davide",dfalessi,Instr Fac AY,+1.805.756.2344,014-0229,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+946,CSC 497_10,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+947,CSC 521_01,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+948,CSC 590_01,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,seminar,M,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+949,CSC 521_02,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+950,CPE 462_15,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+951,CPE 321_02,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+952,CSC 492_10,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+953,CPE 321_01,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+954,CSC 599_10,"Fang, Dongfeng",dofang,Instr Fac AY,+1.805.756.7083,014-0207,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+955,CSC 349_02,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+956,CSC P349 COP_01,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lecture,MWF,08:10 AM,09:00 AM,NA,CENG-Computer Science & Software Engineering
+957,CSC P349 COP_02,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lab,MWF,09:10 AM,10:00 AM,NA,CENG-Computer Science & Software Engineering
+958,CSC 349_04,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+959,CSC 500_09,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+960,CSC 492_25,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+961,CSC 349_01,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+962,CSC 349_03,"Gharibyan, Hasmik",hghariby,Instr Fac AY,+1.805.756.7068,014-0203,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+963,LAES 462 /2_02,"Haungs, Michael",mhaungs,Instr Fac AY,+1.805.756.5531,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+964,CPE 462_27,"Haungs, Michael",mhaungs,Instr Fac AY,+1.805.756.5531,014-0228,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+965,CSC 492_11,"Haungs, Michael",mhaungs,Instr Fac AY,+1.805.756.5531,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+966,CSC 491_11,"Haungs, Michael",mhaungs,Instr Fac AY,+1.805.756.5531,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+967,CSC 400_11,"Haungs, Michael",mhaungs,Instr Fac AY,+1.805.756.5531,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+968,CSC 491_12,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+969,CSC 406_01,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+970,CSC 406_02,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+971,CSC 406_05,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,lab,TR,03:10 PM,04:30 PM,999,CENG-Computer Science & Software Engineering
+972,CSC 406_03,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+973,CSC 406_04,"Janzen, David",djanzen,Instr Fac AY,+1.805.756.2929,014-0212,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+974,CSC 430_05,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+975,CSC 430_06,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+976,CSC 500_13,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+977,CSC 431_02,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+978,CSC 431_01,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+979,CSC 492_13,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+980,CSC 497_13,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+981,CSC 498_13,"Keen, Aaron",akeen,Instr Fac AY,+1.805.756.2926,014-0228,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+982,CPE 462_20,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+983,CSC 500_14,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+984,CSC 582_01,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+985,CSC 492_14,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+986,CSC 466_02,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+987,CSC 466_01,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+988,CSC 582_02,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,lab,MWF,05:10 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+989,CSC 400_14,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+990,CSC 491_14,"Khosmood, Foaad",foaad,Instr Fac AY,+1.805.756.2911,014-0213,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+991,CSC 599_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+992,CSC 549_01,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,lecture,TR,09:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+993,CSC 491_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+994,CSC 492_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+995,CSC 500_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+996,CSC 498_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+997,CSC 400_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+998,CPE 462_26,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+999,CSC 596_17,"Migler, Theresa",tmigler,Instr Fac AY,+1.805.756.2735,014-0245,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1000,CPE 462_17,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1001,CPE 453_04,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1002,CPE 453_08,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1003,CSC 492_18,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1004,CPE 453_03,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1005,CPE 453_07,"Nico, Phillip",pnico,Instr Fac AY,+1.805.756.7124,014-0205,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1006,CSC 599_19,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1007,CPE 469_02,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1008,CPE 469_01,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1009,CPE 419_01,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+1010,CPE 419_02,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1011,CPE 462_09,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1012,CSC 498_19,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1013,CSC 491_19,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1014,CSC 596_19,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1015,CSC 492_19,"Pantoja, Maria",mpanto01,Instr Fac AY,+1.805.756.1330,014-0211,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1016,CPE 315_03,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1017,CPE 315_07,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1018,CPE 315_08,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1019,CSC 492_21,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1020,CPE 400_05,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1021,CPE 462_02,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1022,CSC 400_21,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1023,CPE 315_04,"Seng, John",jseng,Instr Fac AY,+1.805.756.5536,014-0231,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1024,CPE 464_02,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lab,W,09:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1025,CPE 464_04,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lab,W,03:10 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1026,CPE 464_03,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lab,W,12:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1027,CPE 462_05,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1028,CPE 464_01,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1029,CSC 492_22,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1030,CPE 462_13,"Smith, Hugh",husmith,Instr Fac AY,+1.805.756.2801,014-0216,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1031,CSC 437_02,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1032,CSC 437_01,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1033,CSC 491_23,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1034,CSC 437_03,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1035,CSC 437_04,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1036,CSC 400_23,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1037,CSC 492_23,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1038,CPE 462_25,"Staley, Clint",cstaley,Instr Fac AY,+1.805.756.2158,014-0204,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1039,CSC 497_24,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1040,CSC P366 COP_02,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lab,MWF,04:10 PM,05:00 PM,NA,CENG-Computer Science & Software Engineering
+1041,CSC P366 COP_01,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lecture,MWF,03:10 PM,04:00 PM,NA,CENG-Computer Science & Software Engineering
+1042,DATA 301_01,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1043,DATA 301_02,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1044,CSC 366_01,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1045,CSC 366_02,"Stanchev, Lubomir",lstanche,Instr Fac AY,+1.805.756.2958,014-0230,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1046,CSC 348_04,"Vakalis, Ignatios",ivakalis,Instr Fac AY,+1.805.756.6285,014-0217,lecture,MW,10:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1047,CSC 445_02,"Vakalis, Ignatios",ivakalis,Instr Fac AY,+1.805.756.6285,014-0217,lecture,MW,02:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1048,CSC 445_01,"Vakalis, Ignatios",ivakalis,Instr Fac AY,+1.805.756.6285,014-0217,lecture,MW,08:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1049,CSC 348_03,"Vakalis, Ignatios",ivakalis,Instr Fac AY,+1.805.756.6285,014-0217,lecture,TR,09:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1050,CSC 498_27,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1051,CPE 428_01,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1052,CPE 462_03,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,lab,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1053,CSC 491_27,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1054,CSC 492_27,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1055,CPE 428_02,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1056,CSC 500_27,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1057,CSC 599_27,"Ventura, Jonathan",jventu09,Instr Fac AY,+1.805.756.5624,014-0227,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1058,CSC 313_03,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1059,CSC 597_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1060,CSC 491_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1061,CSC 500_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1062,CSC 492_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1063,CSC 313_04,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1064,CSC 599_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1065,CSC 400_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1066,CSC 498_28,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,independent,NA,NA,NA,NA,CENG-Computer Science & Software Engineering
+1067,CPE 476_01,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,lecture,TR,03:10 PM,04:30 PM,999,CENG-Computer Science & Software Engineering
+1068,CPE 476_02,"Wood, Zoe",zwood,Instr Fac AY,+1.805.756.5540,014-0209,lab,TR,04:40 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1069,CPE 101_03,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1070,CPE 101_02,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1071,CPE 202_08,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1072,CPE 101_01,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1073,CPE 202_07,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1074,CPE 101_04,"Einakian, Sussan",seinakia,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1075,CSC P409 COP_01,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,03:10 PM,04:00 PM,NA,CENG-Computer Science & Software Engineering
+1076,CSC P409 COP_02,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,04:10 PM,05:00 PM,NA,CENG-Computer Science & Software Engineering
+1077,CSC P307 COP_05,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,08:10 AM,09:00 AM,NA,CENG-Computer Science & Software Engineering
+1078,CSC P307 COP_06,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,09:10 AM,10:00 AM,NA,CENG-Computer Science & Software Engineering
+1079,CSC 409_02,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1080,CSC 307_06,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1081,CSC 409_01,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1082,CSC 307_05,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1083,CSC 307_04,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1084,CSC 307_03,"Ford, Sara",ssford,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1085,CSC 225_04,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1086,CSC 225_03,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1087,CPE 202_09,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1088,CPE 202_10,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1089,CPE 202_05,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1090,CPE 202_06,"Hatalsky, Paul",phatalsk,Lecturer AY,+1.805.756.2921,014-0203,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1091,CPE 202_21,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lecture,TR,04:40 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1092,CPE 202_17,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lecture,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1093,CPE 202_22,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lab,TR,06:10 PM,07:30 PM,999,CENG-Computer Science & Software Engineering
+1094,CPE 202_13,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lecture,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1095,CPE 202_14,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lab,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1096,CPE 202_18,"Humer, Irene",ihumer,Lecturer AY,+1.805.756.2825,014-0254,lab,TR,03:10 PM,04:30 PM,999,CENG-Computer Science & Software Engineering
+1097,CSC 349_10,"Jones, Brian",btjones,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1098,CSC 349_12,"Jones, Brian",btjones,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,05:10 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1099,CSC 349_09,"Jones, Brian",btjones,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1100,CSC 349_11,"Jones, Brian",btjones,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1101,CSC 480_05,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1102,CSC 480_06,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1103,CPE P101 COP_05,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,02:10 PM,03:00 PM,NA,CENG-Computer Science & Software Engineering
+1104,CPE P101 COP_06,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,03:10 PM,04:00 PM,NA,CENG-Computer Science & Software Engineering
+1105,CSC 480_04,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1106,CSC 480_03,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1107,CPE 101_05,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1108,CPE 101_06,"Kauffman, Daniel",dkauffma,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1109,CPE 101_09,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1110,CPE 101_10,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1111,CPE 202_11,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+1112,CPE 202_12,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1113,CPE 202_04,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1114,CPE 202_03,"Kuboi, Toshihiro",tkuboi,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1115,CPE 357_07,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1116,CPE 357_06,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1117,CPE 357_08,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1118,CPE 357_05,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+1119,CPE 357_09,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lecture,TR,03:10 PM,04:30 PM,999,CENG-Computer Science & Software Engineering
+1120,CPE 357_10,"Mammen, Kurt",kmammen,Lecturer AY,+1.805.756.1332,014-0206,lab,TR,04:40 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1121,CSC 365_01,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1122,CSC 365_03,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1123,CSC 366_03,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1124,CSC 365_04,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1125,CSC 366_04,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lab,MWF,05:10 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1126,CSC 365_02,"Migler, Andrew",avondoll,Lecturer AY,+1.805.756.2053,052-E031,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1127,CPE 101_08,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1128,CPE 101_07,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1129,CPE 203_01,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1130,CPE 203_03,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1131,CPE 203_04,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1132,CPE 203_02,"Mork, Kirsten",klmork,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1133,CPE 202_01,"Parkinson, Dave",dsparkin,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,07:10 AM,08:00 AM,999,CENG-Computer Science & Software Engineering
+1134,CPE 202_02,"Parkinson, Dave",dsparkin,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1135,CPE 315_02,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lab,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1136,CPE P315 COP_09,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lecture,MWF,08:10 AM,09:00 AM,NA,CENG-Computer Science & Software Engineering
+1137,CPE 315_05,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1138,CPE 315_06,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lab,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1139,EE 329_09,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1140,EE 329_10,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1141,CPE 315_01,"Planck, John",jplanck,Lecturer AY,+1.805.756.2781,020A-0200,lecture,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1142,CSC 231_01,"Reynosa, Michael",mreyno28,Lecturer AY,+1.805.756.2824,014-0254A,activity,MW,10:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1143,CSC 300_01,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,08:10 AM,09:30 AM,999,CENG-Computer Science & Software Engineering
+1144,CSC 300_03,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1145,CSC 300_04,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1146,CSC 300_05,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,04:10 PM,05:30 PM,999,CENG-Computer Science & Software Engineering
+1147,CSC 300_06,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,05:40 PM,07:00 PM,999,CENG-Computer Science & Software Engineering
+1148,CSC 300_02,"Sakellariou, Nicholas",nsakella,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1149,CSC 484_03,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,01:40 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1150,CSC 484_04,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,03:10 PM,04:30 PM,999,CENG-Computer Science & Software Engineering
+1151,CSC 486_02,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,06:40 PM,08:00 PM,999,CENG-Computer Science & Software Engineering
+1152,CSC 486_01,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,05:10 PM,06:30 PM,999,CENG-Computer Science & Software Engineering
+1153,CSC 484_01,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lecture,TR,09:40 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1154,CSC 484_02,"Sheets, Erin",easheets,Lecturer AY,+1.805.756.2824,014-0254A,lab,TR,12:10 PM,01:30 PM,999,CENG-Computer Science & Software Engineering
+1155,CSC 349_07,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,08:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1156,CSC 349_08,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1157,CSC 349_05,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1158,CSC 349_06,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1159,CSC 225_02,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lab,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1160,CSC 225_01,"Siu, Christopher",cesiu,Lecturer AY,+1.805.756.2824,014-0254A,lecture,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1161,CPE 453_05,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lecture,MWF,02:10 PM,03:00 PM,999,CENG-Computer Science & Software Engineering
+1162,CPE 453_06,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lab,MWF,03:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1163,CPE 453_10,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lab,MWF,05:10 PM,06:00 PM,999,CENG-Computer Science & Software Engineering
+1164,CPE 453_01,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lecture,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1165,CPE 453_09,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lecture,MWF,04:10 PM,05:00 PM,999,CENG-Computer Science & Software Engineering
+1166,CPE 453_02,"Voelker, Kurt",kvoelker,Lecturer AY,+1.805.756.7186,014-0202,lab,MWF,01:10 PM,02:00 PM,999,CENG-Computer Science & Software Engineering
+1167,CPE P357 COP_03,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lecture,MWF,11:10 AM,12:00 PM,NA,CENG-Computer Science & Software Engineering
+1168,CPE P357 COP_04,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lab,MWF,12:10 PM,01:00 PM,NA,CENG-Computer Science & Software Engineering
+1169,CPE 357_03,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lecture,MWF,11:10 AM,12:00 PM,999,CENG-Computer Science & Software Engineering
+1170,CPE 357_01,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lecture,MWF,09:10 AM,10:00 AM,999,CENG-Computer Science & Software Engineering
+1171,CPE 357_02,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lab,MWF,10:10 AM,11:00 AM,999,CENG-Computer Science & Software Engineering
+1172,CPE 357_04,"Workman, Julie",jworkman,Lecturer AY,+1.805.756.6168,014-0206,lab,MWF,12:10 PM,01:00 PM,999,CENG-Computer Science & Software Engineering
+1173,CSC 231_03,"Kohler, Iris",ikohler,Teaching Associate AY,+1.805.756.2824,014-0254A,activity,TR,02:10 PM,04:00 PM,999,CENG-Computer Science & Software Engineering
+1174,CSC 348_02,"Kohler, Iris",ikohler,Teaching Associate AY,+1.805.756.2824,014-0254A,lecture,TR,07:10 AM,09:00 AM,999,CENG-Computer Science & Software Engineering
+1175,AERO 599_09,"Mehiel, Eric",emehiel,Assoc Dean-Diversity/Stud Succ,+1.805.756.7537,041A-0128,independent,NA,NA,NA,NA,CENG-College of Engineering
+1176,AERO 421_01,"Mehiel, Eric",emehiel,Assoc Dean-Diversity/Stud Succ,+1.805.756.7537,041A-0128,lecture,TR,12:10 PM,02:00 PM,999,CENG-College of Engineering
+1177,BMED 583_73,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1178,BMED 599_06,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1179,BMED 500_06,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1180,BMED 593_02,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1181,ENGR 461_01,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,lab,TR,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering
+1182,BMED 400_06,"Laiho, Lily",llaiho,Dept Chair Biomed Engineering,+1.805.756.2172,013-0260A,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1183,BMED 593_03,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1184,BMED 583_72,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1185,BMED 420_04,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,lecture,TR,12:10 PM,01:30 PM,999,CENG-Biomedical Engineering
+1186,BMED 563_02,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,lab,M,08:10 AM,11:00 AM,999,CENG-Biomedical Engineering
+1187,BMED 563_01,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,seminar,M,07:10 AM,08:00 AM,999,CENG-Biomedical Engineering
+1188,BMED 599_01,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1189,BMED 459_01,"Cardinal, Kristen",kohallor,Instr Fac AY,+1.805.756.2675,041A-0220,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1190,BIO 583 (1) /2_70,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,seminar,R,04:10 PM,05:00 PM,999,CENG-Biomedical Engineering
+1191,BMED 583_71,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1192,BMED 561_01,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,lab,WF,09:10 AM,12:00 PM,999,CENG-Biomedical Engineering
+1193,BMED 599_02,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1194,BMED 560_01,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,lecture,TR,10:10 AM,11:00 AM,999,CENG-Biomedical Engineering
+1195,BMED 583 (1) /2_70,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,seminar,R,04:10 PM,05:00 PM,999,CENG-Biomedical Engineering
+1196,BMED 593_01,"Cardinal, Trevor",tcardina,Instr Fac AY,+1.805.756.6244,192-0326,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1197,BMED 599_03,"Clague, David",dclague,Instr Fac AY,+1.805.756.5145,041A-0223,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1198,BMED 425_01,"Clague, David",dclague,Instr Fac AY,+1.805.756.5145,041A-0223,lecture,TR,08:10 AM,09:30 AM,999,CENG-Biomedical Engineering
+1199,BMED 425_03,"Clague, David",dclague,Instr Fac AY,+1.805.756.5145,041A-0223,lab,F,09:10 AM,12:00 PM,999,CENG-Biomedical Engineering
+1200,BMED 425_02,"Clague, David",dclague,Instr Fac AY,+1.805.756.5145,041A-0223,lab,R,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering
+1201,EE 113_07,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,lecture,MW,04:10 PM,05:30 PM,999,CENG-Biomedical Engineering
+1202,EE 143_03,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,lab,T,08:10 AM,11:00 AM,999,CENG-Biomedical Engineering
+1203,BMED 599_07,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1204,BMED 500_07,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1205,BMED 505_02,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,lab,F,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering
+1206,EE 461_04,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1207,CPE 462_18,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,lab,NA,NA,NA,NA,CENG-Biomedical Engineering
+1208,BMED 505_01,"Hawkins, Ben",bghawkin,Instr Fac AY,+1.805.756.6203,041-0219,lecture,TR,01:40 PM,03:00 PM,999,CENG-Biomedical Engineering
+1209,ME 599_99,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1210,KINE 409 (2) /2_70,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lecture,W,09:10 AM,10:00 AM,999,CENG-Biomedical Engineering
+1211,BMED 599_04,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1212,BMED 410_02,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lab,M,09:10 AM,12:00 PM,999,CENG-Biomedical Engineering
+1213,BMED 410_03,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lab,M,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering
+1214,BMED 410_01,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lecture,TR,01:40 PM,03:00 PM,999,CENG-Biomedical Engineering
+1215,BMED 409 (2) /2_70,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lecture,W,09:10 AM,10:00 AM,999,CENG-Biomedical Engineering
+1216,ME 409 (2) /2_70,"Hazelwood, Scott",shazelwo,Instr Fac AY,+1.805.756.6304,192-0324,lecture,W,09:10 AM,10:00 AM,999,CENG-Biomedical Engineering
+1217,BMED 593_04,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1218,BIO 583_74,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1219,BMED 599_10,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1220,BMED 583_74,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1221,BMED 592_01,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,lab,M,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering
+1222,BMED 460_02,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,lab,NA,NA,NA,NA,CENG-Biomedical Engineering
+1223,BMED 460_01,"Heylman, Christopher",cheylman,Instr Fac AY,+1.805.756.6482,192-0229,lecture,NA,NA,NA,NA,CENG-Biomedical Engineering
+1224,BUS 436_01,"Katona, Thomas",tkatona,Instr Fac AY,+1.805.756.2673,041A-0227,seminar,MW,04:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1225,ENGR 465_02,"Katona, Thomas",tkatona,Instr Fac AY,+1.805.756.2673,041A-0227,lab,MW,06:10 PM,09:00 PM,999,CENG-Biomedical Engineering
+1226,BMED 400_05,"Katona, Thomas",tkatona,Instr Fac AY,+1.805.756.2673,041A-0227,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1227,BMED 599_08,"Szlavik, Robert",rszlavik,Instr Fac AY,+1.805.756.2025,041A-0218,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1228,BMED 555 (1)_01,"Szlavik, Robert",rszlavik,Instr Fac AY,+1.805.756.2025,041A-0218,lecture,TR,03:10 PM,05:00 PM,999,CENG-Biomedical Engineering
+1229,BMED 445_01,"Szlavik, Robert",rszlavik,Instr Fac AY,+1.805.756.2025,041A-0218,lecture,TR,05:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1230,BMED 445_02,"Szlavik, Robert",rszlavik,Instr Fac AY,+1.805.756.2025,041A-0218,lab,MW,03:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1231,BMED 456_01,"Whitt, Michael",mdwhitt,Instr Fac AY,+1.805.756.6433,041A-0221,lecture,MW,08:10 AM,09:00 AM,999,CENG-Biomedical Engineering
+1232,BMED 599_09,"Whitt, Michael",mdwhitt,Instr Fac AY,+1.805.756.6433,041A-0221,independent,NA,NA,NA,NA,CENG-Biomedical Engineering
+1233,BMED 456_02,"Whitt, Michael",mdwhitt,Instr Fac AY,+1.805.756.6433,041A-0221,lab,MW,09:10 AM,12:00 PM,999,CENG-Biomedical Engineering
+1234,BMED 450_02,"Della Ripa, Sara",sdellari,Lecturer AY,+1.805.375.0130,NA,lecture,MW,04:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1235,BRAE 213_72,"Eason, James",jceason,Lecturer AY,+1.805.756.6400,013-0260A,lecture,NA,NA,NA,NA,CENG-Biomedical Engineering
+1236,BRAE 213_71,"Eason, James",jceason,Lecturer AY,+1.805.756.6400,013-0260A,lecture,NA,NA,NA,NA,CENG-Biomedical Engineering
+1237,BMED 213_71,"Eason, James",jceason,Lecturer AY,+1.805.756.6400,013-0260A,lecture,NA,NA,NA,NA,CENG-Biomedical Engineering
+1238,BMED 213_72,"Eason, James",jceason,Lecturer AY,+1.805.756.6400,013-0260A,lecture,NA,NA,NA,NA,CENG-Biomedical Engineering
+1239,BMED 450 (1)_01,"Porterfield, Christopher",cpporter,Lecturer AY,NA,NA,lecture,TR,08:10 AM,10:00 AM,999,CENG-Biomedical Engineering
+1240,MATE 445_01,"Walsh, Daniel",dwalsh,Lecturer AY,+1.805.756.1270,092M-A105,lab,MW,06:10 PM,09:00 PM,999,CENG-Biomedical Engineering
+1241,MATE 440_01,"Walsh, Daniel",dwalsh,Lecturer AY,+1.805.756.1270,092M-A105,lecture,MW,04:10 PM,05:30 PM,999,CENG-Biomedical Engineering
+1242,BMED 420_05,"Kandell, Jennifer",jskandel,Teaching Associate AY,+1.760.371.4186,NA,lab,T,03:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1243,BMED 420_06,"Richards, Colleen",cricha18,Teaching Associate AY,+1.303.856.6955,NA,lab,W,03:10 PM,06:00 PM,999,CENG-Biomedical Engineering
+1244,BMED 212_02,"Laiho, David",dlaiho,"Equip Tech III, Electro-Mechnl",+1.805.756.2024,192-0106C,lab,W,09:10 AM,12:00 PM,999,CENG-Biomedical Engineering
+1245,BMED 212_03,"Laiho, David",dlaiho,"Equip Tech III, Electro-Mechnl",+1.805.756.2024,192-0106C,lab,W,12:10 PM,03:00 PM,999,CENG-Biomedical Engineering

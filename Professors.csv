@@ -1,0 +1,80 @@
+id,first_name,last_name,phone_number,research_interests,email
+1,Chris,Lupo,805-756-5659,NA,clupo@calpoly.edu
+2,Paul,Anderson,NA,"['Bioinformatics', 'Data Science', 'Genomics', 'Machine Learning', 'Metabolomics', 'Proteomics']",pander14@calpoly.edu
+3,Hisham,Assal,805-756-1330,NA,hhassal@calpoly.edu
+4,John,Bellardo,805-756-7256,NA,bellardo@calpoly.edu
+5,John,Clements,805-756-6528,"['Computational Finance', 'Computer Music', 'Dynamic & Scripting languages', 'Macros & Hygiene', 'Password Generation', 'Programming Environments', 'Programming Languages', 'Programming Language Semantics']",clements@calpoly.edu
+6,Bruno,da Silva,805-756-5541,"['Empirical Software Engineering', 'Mining Software Repositories', 'Program Comprehension', 'Software Analytics', 'Software Maintenance and Evolution', 'Software Metrics']",bcdasilv@calpoly.edu
+7,Bruce,DeBruhl,805-756-1392,NA,bdebruhl@calpoly.edu
+8,Alex,Dekhtyar,805-756-2387,"['Bioinformatics', 'Databases', 'Digital Libraries', 'Independent Verification and Validation of Software', 'Information Retrieval and Data Mining', 'Management of XML data', 'Uncertain Reasoning in AI and Logic Programming']",dekhtyar@calpoly.edu
+9,Christian,Eckhardt,805-756-2416,"['Animation and Motion Capturing', 'Game Design and Development', 'Global Illumination', 'HCI', 'Machine Learning', 'Physics Simulation', 'Procedural Generation']",ceckhard@calpoly.edu
+10,Sussan,Einakian,805-756-7186,NA,seinakia@calpoly.edu
+11,Davide,Falessi,805-756-2344,"['Machine Learning applied to Software Engineering', 'Software Change Prediction', 'Software Defect Prediction', 'Software Engineering Recommendation Systems']",dfalessi@calpoly.edu
+12,Phoenix,(Dongfeng) Fang,NA,NA,dofang@calpoly.edu
+13,Sara,Ford,NA,NA,ssford@calpoly.edu
+14,Kris,Fox,805-756-2624,NA,jfox@calpoly.edu
+15,Hasmik,Gharibyan,805-756-7068,NA,hghariby@calpoly.edu
+16,Paul,Hatalsky,805-756-2921,NA,phatalsk@calpoly.edu
+17,Michael,Haungs,805-756-5531,"['Distributed Systems', 'Interprocess Communications', 'Networking', 'Operating Systems', 'Parallel Architecture']",mhaungs@calpoly.edu
+18,Irene,Humer,805-756-5541,NA,ihumer@calpoly.edu
+19,David,Janzen,805-756-2929,"['Agile Methods', 'Computer Science Pedagogy', 'Object-Oriented Systems', 'Software Engineering']",djanzen@calpoly.edu
+20,Daniel,Kauffman,805-756-2824,['Artificial Intelligence'],dkauffma@calpoly.edu
+21,Aaron,Keen,805-756-2926,"['Compilers', 'Distributed Computing', 'Operating Systems', 'Programming Languages']",akeen@calpoly.edu
+22,Foaad,Khosmood,805-756-2911,NA,foaad@calpoly.edu
+23,Toshihiro,Kuboi,805-756-2824,NA,tkuboi@calpoly.edu
+24,Franz,Kurfess,805-756-7179,"['Artificial Intelligence', 'Knowledge-Based Systems', 'Usability']",fkurfess@calpoly.edu
+25,Kurt,Mammen,805-756-1332,NA,kmammen@calpoly.edu
+26,Andrew,Migler,NA,NA,avondoll@calpoly.edu
+27,Theresa,Migler,805-756-2824,"['Computer Science Outreach', 'Graph Theory', 'Network Analysis']",tmigler@calpoly.edu
+28,Kirsten,Mork,NA,NA,klmork@calpoly.edu
+29,Phil,Nico,805-756-7124,NA,pnico@calpoly.edu
+30,Maria,Pantoja,805-756-1330,NA,mpanto01@calpoly.edu
+31,David,Parkinson,805-756-2824,NA,dsparkin@calpoly.edu
+32,Zachary,N J Peterson,805-756-2088,"['Applied Cryptography', 'Computer Science Pedagogy', 'Secure Systems', 'Technology Law']",znjp@calpoly.edu
+33,John,Planck,805-756-2781,NA,jplanck@calpoly.edu
+34,Michael,Reynosa,805-756-2824,NA,mreyno28@calpoly.edu
+35,Nicholas,Sakellariou,805-756-2824,NA,nsakella@calpoly.edu
+36,John,Seng,805-756-5536,NA,jseng@calpoly.edu
+37,Erin,Sheets,805-756-2824,NA,easheets@calpoly.edu
+38,Christopher,Siu,NA,NA,cesiu@calpoly.edu
+39,Hugh,Smith,805-756-2801,NA,husmith@calpoly.edu
+40,Clint,Staley,805-756-2158,"['Online and Automated Instruction', 'Software Engineering', 'Web Development']",cstaley@calpoly.edu
+41,Lubomir,Stanchev,805-756-2958,"['Databases', 'Distributed Systems', 'Information Retrieval and Data Mining', 'Semantic Computing']",lstanche@calpoly.edu
+42,Clark,Turner,805-756-6133,"['Small Satellite Communications and Operations', 'Software Engineering', 'Software Ethics', 'Software Liability', 'Software Safety']",csturner@calpoly.edu
+43,Ignatios,Vakalis,805-756-2824,"['Computational Mathematics', 'Computational Science Education', 'Graph Theory', 'Numerical Analysis', 'Parallel Computing', 'Teaching of Mathematics']",ivakalis@calpoly.edu
+44,Michael,Van De Vanter,805-756-2624,NA,mvandeva@calpoly.edu
+45,Jonathan,Ventura,805-756-5624,"['Augumented Reality', 'Computer Vision', 'Deep Learning', 'Medical and Scientific Image Analysis', 'Robotics']",jventu09@calpoly.edu
+46,Kurt,Voelker,805-756-7186,NA,kvoelker@calpoly.edu
+47,Zoë,Wood,805-756-5540,"['Computer Graphics', 'Geometric Modeling', 'Scientific Visualization']",zwood@calpoly.edu
+48,Julie,Workman,805-756-6168,NA,jworkman@calpoly.edu
+49,Jane,Lehr,805-756-6442,NA,jlehr@calpoly.edu
+50,Dennis,Sun,805-756-5877,NA,dsun09@calpoly.edu
+51,Charles,Dana,805-756-1331,"['Graphical User Interfaces', 'Java Programming Language- Especially GUI Projects', 'Modern Programming Languages', 'Professional Responsibilities', 'Software Tools']",chdana@calpoly.edu
+52,Tim,Kearns,805-756-5541,"['Bioinformatics', 'Computer Security', 'Data Mining']",tkearns@calpoly.edu
+53,Leanne,Fiorentino,NA,NA, lfiorent@calpoly.edu
+54,Tedd,Akdag,NA,NA, takdag@calpoly.edu
+55,Diana,Wilson,NA,NA, dwilso27@calpoly.edu
+56,Teresa,Medrano,NA,NA, tlmedran@calpoly.edu
+57,Lynne,Slivovsky,805-756-1229,NA,lslivovs@calpoly.edu
+58,Bridget,Benson,805-756-5738,NA,bbenson@calpoly.edu
+59,Nazieh,Botros,805-756-2404,NA,nbotros@calpoly.edu
+60,David,Braun,805-756-1464,NA,dbraun@calpoly.edu
+61,Joseph,Callenes-Sloan,805-756-5607,NA,jcallene@calpoly.edu
+62,Andrew,Danowitz,805-756-2756,NA,adanowit@calpoly.edu
+63,Fred,DePiero,NA,NA,fdepiero@calpoly.edu
+64,Art,MacCarley,805-756-2317,NA,amaccarl@calpoly.edu
+65,James,Mealy,805-756-2300,NA,bmealy@calpoly.edu
+66,John,Oliver,805-756-5434,NA,jyoliver@calpoly.edu
+67,Tina,Smilkstein,805-756-2497,NA,tsmilkst@calpoly.edu
+68,Paul,Hummel,805-756-5618,NA,phummel@calpoly.edu
+69,Jim,Beug,NA,NA,jbeug@calpoly.edu
+70,Joe,Grimes,805-756-2088,NA,jgrimes@calpoly.edu
+71,Jim,Harris,805-756-5708,NA,jharris@calpoly.edu
+72,Dan,Stearns,NA,NA,NA
+73,Wayne,McMorran,NA,NA,wmcmorra@calpoly.edu
+74,Donna,Aiken,NA,NA,daiken@calpoly.edu
+75,Leanne,Fiorentino,NA,NA,lfiorent@calpoly.edu
+76,Tedd,Akdag,NA,NA,takdag@calpoly.edu
+77,Diana,Wilson,NA,NA,dwilso27@calpoly.edu
+78,Teresa,Medrano,NA,NA,tlmedran@calpoly.edu
+79,Donna,Aiken,NA,"['N', 'A']",daiken@calpoly.edu
