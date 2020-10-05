@@ -1139,3 +1139,382 @@ io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
+2020-08-03 17:13:29,655 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.410 s
+2020-08-03 17:16:25,979 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+math $p isa professorOffice; get; offset 0; limit 30;
+^
+no viable alternative at input 'math'
+syntax error at line 1: 
+math $p isa professorOffice; get; offset 0; limit 30;
+^
+mismatched input 'math' expecting {'match', 'define', 'undefine', 'insert', 'compute'}
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,658 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,659 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,660 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-21 23:45:53,450 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.492 s
+2020-08-22 13:26:24,470 [main] INFO  grakn.core.server.Grakn - Grakn started in 3.004 s
+2020-08-22 13:30:40,417 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                            ^
+token recognition error at: '.'
+syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                      ^
+no viable alternative at input 'match $x isa course, has attribute "course", has Game Design'
+syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                      ^
+no viable alternative at input 'match $x isa course, has attribute "course", has Game Design'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 13:31:23,815 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-22 13:31:45,038 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-22 20:53:46,983 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course has department $d; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+syntax error at line 1: 
+match $x isa course has department $d; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 20:58:54,817 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 50;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 50;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 20:59:47,325 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:00:06,387 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice, has reference-id $ref; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice, has reference-id $ref; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:00:26,531 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'reference-id' not found
+2020-08-22 21:01:50,587 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 15;
+                                                ^
+no viable alternative at input 'match (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 15;
+                                                ^
+no viable alternative at input 'match (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:03:01,205 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'professorOffic' not found
+2020-08-22 21:34:21,626 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:34:30,040 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:01,036 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:04,492 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:22,378 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-23 11:53:35,869 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.525 s
+2020-10-05 11:03:02,922 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.872 s
+2020-10-05 11:04:21,713 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'COURSE' not found
+2020-10-05 11:04:59,430 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x; get; offset 0; limit 30;
+        ^
+no viable alternative at input 'match $x;'
+syntax error at line 1: 
+match $x; get; offset 0; limit 30;
+        ^
+no viable alternative at input 'match $x;'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
