@@ -1,0 +1,179 @@
+define
+
+course sub entity,
+	has department,
+	has course_num,
+	has terms_offered,
+	has units,
+	has course_name,
+	has concurrent,
+	has corequisites,
+	has recommended,
+	has prerequisites,
+	has ge_areas,
+	has description,
+
+	plays isCourseOfSection;
+
+section sub entity,
+	has section_name,
+	has instructor,
+	has	alias,
+	has	title,
+	has	phone,
+	has	office,
+	has	section_type,
+	has	days,
+	has	start,
+	has	end,
+	has	location,
+	has	department,
+
+	plays isSectionOfCourse;
+
+professor sub entity,
+	has first_name,
+	has last_name,
+	has phone_number,
+	has research_interests,
+	has email,
+
+	plays professorOfOffice;
+
+officeHours sub entity,
+	has office,
+	has	email,
+	has	office_hours,
+	has	monday,
+	has	tuesday,
+	has	wednesday,
+	has	thursday,
+	has	friday,
+	has	phone,
+	has platform,
+	has	latest_quarter,
+
+	plays officeOfProfessor;
+
+
+professorOffice sub relation,
+	relates officeOfProfessor,
+	relates professorOfOffice;
+
+
+sectionOfCourse sub relation,
+	relates isCourseOfSection,
+	relates isSectionOfCourse;
+
+
+
+department sub attribute,
+	value string;
+
+course_num sub attribute,
+	value string;
+
+terms_offered sub attribute,
+	value string;
+
+units sub attribute,
+	value string;
+
+course_name sub attribute,
+	value string;
+
+concurrent sub attribute,
+	value string;
+
+corequisites sub attribute,
+	value string;
+
+recommended sub attribute,
+	value string;
+
+prerequisites sub attribute,
+	value string;
+
+ge_areas sub attribute,
+	value string;
+
+description sub attribute,
+	value string;
+
+section_name sub attribute,
+	value string;
+
+instructor sub attribute,
+	value string;
+
+alias sub attribute,
+	value string;
+
+title sub attribute,
+	value string;
+
+phone sub attribute,
+	value string;
+
+office sub attribute,
+	value string;
+
+section_type sub attribute,
+	value string;
+
+days sub attribute,
+	value string;
+
+start sub attribute,
+	value string;
+
+end sub attribute,
+	value string;
+
+location sub attribute,
+	value string;
+
+first_name sub attribute,
+	value string;
+
+last_name sub attribute,
+	value string;
+
+phone_number sub attribute,
+	value string;
+
+research_interests sub attribute,
+	value string;
+
+email sub attribute,
+	value string;
+
+office sub attribute,
+	value string;
+
+office_hours sub attribute,
+	value string;
+
+monday sub attribute,
+	value string;
+
+tuesday sub attribute,
+	value string;
+
+wednesday sub attribute,
+	value string;
+
+thursday sub attribute,
+	value string;
+
+friday sub attribute,
+	value string;
+
+phone sub attribute,
+	value string;
+
+platform sub attribute,
+	value string;
+
+latest_quarter sub attribute,
+	value string;

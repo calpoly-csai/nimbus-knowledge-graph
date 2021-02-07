@@ -1,0 +1,1520 @@
+2020-07-20 19:14:21,432 [main] INFO  grakn.core.server.Grakn - Grakn started in 1.577 s
+2020-07-22 15:14:05,611 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.496 s
+2020-07-22 15:24:06,940 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.concept.api.GraknConceptException: The concept [Base Type [ROLE] - Id [V4328]  - Label [section] ] is not of type [interface grakn.core.kb.concept.api.EntityType]
+	at grakn.core.kb.concept.api.GraknConceptException.create(GraknConceptException.java:54)
+	at grakn.core.kb.concept.api.GraknConceptException.invalidCasting(GraknConceptException.java:61)
+	at grakn.core.kb.concept.api.Concept.asEntityType(Concept.java:81)
+	at grakn.core.graql.executor.ConceptBuilderImpl.setSuper(ConceptBuilderImpl.java:439)
+	at grakn.core.graql.executor.ConceptBuilderImpl.tryPutConcept(ConceptBuilderImpl.java:235)
+	at grakn.core.graql.executor.ConceptBuilderImpl.build(ConceptBuilderImpl.java:182)
+	at grakn.core.graql.executor.WriteExecutorImpl.buildConcept(WriteExecutorImpl.java:269)
+	at grakn.core.graql.executor.WriteExecutorImpl.getConcept(WriteExecutorImpl.java:406)
+	at grakn.core.graql.executor.property.PlaysExecutor$DefinePlays.execute(PlaysExecutor.java:90)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:241)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:230)
+	at grakn.core.graql.executor.QueryExecutorImpl.define(QueryExecutorImpl.java:258)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:378)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:689)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:398)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-22 15:26:23,529 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.concept.api.GraknConceptException: The concept [Base Type [ROLE] - Id [V4208]  - Label [section] ] is not of type [interface grakn.core.kb.concept.api.EntityType]
+	at grakn.core.kb.concept.api.GraknConceptException.create(GraknConceptException.java:54)
+	at grakn.core.kb.concept.api.GraknConceptException.invalidCasting(GraknConceptException.java:61)
+	at grakn.core.kb.concept.api.Concept.asEntityType(Concept.java:81)
+	at grakn.core.graql.executor.ConceptBuilderImpl.setSuper(ConceptBuilderImpl.java:439)
+	at grakn.core.graql.executor.ConceptBuilderImpl.tryPutConcept(ConceptBuilderImpl.java:235)
+	at grakn.core.graql.executor.ConceptBuilderImpl.build(ConceptBuilderImpl.java:182)
+	at grakn.core.graql.executor.WriteExecutorImpl.buildConcept(WriteExecutorImpl.java:269)
+	at grakn.core.graql.executor.WriteExecutorImpl.getConcept(WriteExecutorImpl.java:406)
+	at grakn.core.graql.executor.property.PlaysExecutor$DefinePlays.execute(PlaysExecutor.java:91)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:241)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:230)
+	at grakn.core.graql.executor.QueryExecutorImpl.define(QueryExecutorImpl.java:258)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:378)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:689)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:398)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-22 23:24:00,039 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-23 16:58:35,105 [main] WARN  grakn.core.server.util.PIDManager - Pid file already exists: '[C:\Users\SIDDHA~1\AppData\Local\Temp\grakn-core-server.pid]'. Overwriting...
+2020-07-23 16:58:38,007 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.870 s
+2020-07-23 16:59:42,613 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course has course_num "101"; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+syntax error at line 1: 
+match $x isa course has course_num "101"; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-23 16:59:57,234 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course; has course_num "101"; get; offset 0; limit 30;
+                     ^
+no viable alternative at input 'match $x isa course; has'
+syntax error at line 1: 
+match $x isa course; has course_num "101"; get; offset 0; limit 30;
+                     ^
+no viable alternative at input 'match $x isa course; has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:29:08,966 [main] WARN  grakn.core.server.util.PIDManager - Pid file already exists: '[C:\Users\SIDDHA~1\AppData\Local\Temp\grakn-core-server.pid]'. Overwriting...
+2020-07-24 16:29:11,690 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.702 s
+2020-07-24 16:32:08,212 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+$x isa course; get; offset 0; limit 30;
+^
+no viable alternative at input '$x'
+syntax error at line 1: 
+$x isa course; get; offset 0; limit 30;
+^
+mismatched input '$x' expecting {'match', 'define', 'undefine', 'insert', 'compute'}
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:34:31,205 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa department "CSC" ; get; offset 0; limit 100;
+                        ^
+no viable alternative at input 'match $x isa department "CSC"'
+syntax error at line 1: 
+match $x isa department "CSC" ; get; offset 0; limit 100;
+                        ^
+no viable alternative at input 'match $x isa department "CSC"'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:34:52,322 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa department "CSC"; get; offset 0; limit 30;
+                        ^
+no viable alternative at input 'match $x isa department "CSC"'
+syntax error at line 1: 
+match $x isa department "CSC"; get; offset 0; limit 30;
+                        ^
+no viable alternative at input 'match $x isa department "CSC"'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:36:44,661 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa department has value "CSC"; get; offset 0; limit 30;
+                        ^
+no viable alternative at input 'match $x isa department has'
+syntax error at line 1: 
+match $x isa department has value "CSC"; get; offset 0; limit 30;
+                        ^
+no viable alternative at input 'match $x isa department has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:37:58,580 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has department = "CSC"; get; offset 0; limit 30;
+                                    ^
+no viable alternative at input 'match $x isa course, has department ='
+syntax error at line 1: 
+match $x isa course, has department = "CSC"; get; offset 0; limit 30;
+                                    ^
+no viable alternative at input 'match $x isa course, has department ='
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:38:08,879 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has department CSC; get; offset 0; limit 30;
+                                    ^
+no viable alternative at input 'match $x isa course, has department CSC'
+syntax error at line 1: 
+match $x isa course, has department CSC; get; offset 0; limit 30;
+                                    ^
+no viable alternative at input 'match $x isa course, has department CSC'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:40:09,350 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has department $d, $d "CSC"; has course_name $n; $n contains "Programming"; get; offset 0; limit 30;
+                                        ^
+no viable alternative at input 'match $x isa course, has department $d, $d'
+syntax error at line 1: 
+match $x isa course, has department $d, $d "CSC"; has course_name $n; $n contains "Programming"; get; offset 0; limit 30;
+                                        ^
+no viable alternative at input 'match $x isa course, has department $d, $d'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-24 16:40:16,005 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has department $d; $d "CSC"; has course_name $n; $n contains "Programming"; get; offset 0; limit 30;
+                                                  ^
+no viable alternative at input 'match $x isa course, has department $d; $d "CSC"; has'
+syntax error at line 1: 
+match $x isa course, has department $d; $d "CSC"; has course_name $n; $n contains "Programming"; get; offset 0; limit 30;
+                                                  ^
+no viable alternative at input 'match $x isa course, has department $d; $d "CSC"; has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:17,378 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:17,886 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:17,958 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:17,990 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:18,005 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:18,068 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:18,084 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 03:20:18,157 [grpc-request-handler-7] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:00:56,066 [main] INFO  grakn.core.server.Grakn - Grakn started in 4.120 s
+2020-07-25 13:08:52,463 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.concept.api.GraknConceptException: Failed to: undefine [course] has [department]. There exists instance of this pattern.
+	at grakn.core.kb.concept.api.GraknConceptException.create(GraknConceptException.java:54)
+	at grakn.core.kb.concept.api.GraknConceptException.illegalUnhasWithInstance(GraknConceptException.java:194)
+	at grakn.core.concept.impl.TypeImpl.unhas(TypeImpl.java:261)
+	at grakn.core.graql.executor.property.HasAttributeTypeExecutor$UndefineHasAttributeType.execute(HasAttributeTypeExecutor.java:152)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:241)
+	at grakn.core.graql.executor.WriteExecutorImpl.write(WriteExecutorImpl.java:230)
+	at grakn.core.graql.executor.QueryExecutorImpl.undefine(QueryExecutorImpl.java:273)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:391)
+	at grakn.core.server.session.TransactionImpl.stream(TransactionImpl.java:692)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:398)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:18:07,406 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+$c isa course, has department $dc; $s isa section, has department $ds; match $ds contains $dc; get; offset 0; limit 30;
+^
+no viable alternative at input '$c'
+syntax error at line 1: 
+$c isa course, has department $dc; $s isa section, has department $ds; match $ds contains $dc; get; offset 0; limit 30;
+^
+mismatched input '$c' expecting {'match', 'define', 'undefine', 'insert', 'compute'}
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:27,533 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:28,035 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+java.lang.IllegalStateException: Operation cannot be executed because the enclosing transaction is closed
+	at grakn.core.graph.graphdb.transaction.StandardJanusGraphTx.verifyOpen(StandardJanusGraphTx.java:435)
+	at grakn.core.graph.graphdb.transaction.StandardJanusGraphTx.getRelationType(StandardJanusGraphTx.java:905)
+	at grakn.core.graph.graphdb.query.QueryUtil.getType(QueryUtil.java:82)
+	at grakn.core.graph.graphdb.query.QueryUtil.constraints2QNF(QueryUtil.java:163)
+	at grakn.core.graph.graphdb.query.graph.GraphCentricQueryBuilder.constructQueryWithoutProfile(GraphCentricQueryBuilder.java:260)
+	at grakn.core.graph.graphdb.query.graph.GraphCentricQueryBuilder.constructQuery(GraphCentricQueryBuilder.java:248)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.buildGraphCentricQuery(JanusGraphStep.java:149)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.lambda$new$0(JanusGraphStep.java:87)
+	at java.util.LinkedHashMap$LinkedEntrySet.forEach(Unknown Source)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.lambda$new$2(JanusGraphStep.java:87)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.GraphStep.processNextStart(GraphStep.java:155)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.filter.FilterStep.processNextStart(FilterStep.java:37)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.FlatMapStep.processNextStart(FlatMapStep.java:48)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphVertexStep.processNextStart(JanusGraphVertexStep.java:178)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.FlatMapStep.processNextStart(FlatMapStep.java:48)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphVertexStep.processNextStart(JanusGraphVertexStep.java:178)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.MapStep.processNextStart(MapStep.java:36)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.SelectStep.processNextStart(SelectStep.java:156)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.util.DefaultTraversal.hasNext(DefaultTraversal.java:192)
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.lambda$initPartialTraversalState$0(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at grakn.core.graql.executor.util.LazyMergingStream$1.hasNext(LazyMergingStream.java:60)
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.lambda$initPartialTraversalState$0(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at grakn.core.server.rpc.SessionService$Iterators$BatchingIterator.iterateBatch(SessionService.java:562)
+	at grakn.core.server.rpc.SessionService$Iterators.startBatchIterating(SessionService.java:512)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:401)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:28,042 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:55,172 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:55,172 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:55,173 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:28:55,173 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:34:03,902 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:34:04,746 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+java.lang.IllegalStateException: Operation cannot be executed because the enclosing transaction is closed
+	at grakn.core.graph.graphdb.transaction.StandardJanusGraphTx.verifyOpen(StandardJanusGraphTx.java:435)
+	at grakn.core.graph.graphdb.transaction.StandardJanusGraphTx.getRelationType(StandardJanusGraphTx.java:905)
+	at grakn.core.graph.graphdb.query.QueryUtil.getType(QueryUtil.java:82)
+	at grakn.core.graph.graphdb.query.QueryUtil.constraints2QNF(QueryUtil.java:163)
+	at grakn.core.graph.graphdb.query.graph.GraphCentricQueryBuilder.constructQueryWithoutProfile(GraphCentricQueryBuilder.java:260)
+	at grakn.core.graph.graphdb.query.graph.GraphCentricQueryBuilder.constructQuery(GraphCentricQueryBuilder.java:248)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.buildGraphCentricQuery(JanusGraphStep.java:149)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.lambda$new$0(JanusGraphStep.java:87)
+	at java.util.LinkedHashMap$LinkedEntrySet.forEach(Unknown Source)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphStep.lambda$new$2(JanusGraphStep.java:87)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.GraphStep.processNextStart(GraphStep.java:155)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.filter.FilterStep.processNextStart(FilterStep.java:37)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.FlatMapStep.processNextStart(FlatMapStep.java:48)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphVertexStep.processNextStart(JanusGraphVertexStep.java:178)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.FlatMapStep.processNextStart(FlatMapStep.java:48)
+	at grakn.core.graph.graphdb.tinkerpop.optimize.JanusGraphVertexStep.processNextStart(JanusGraphVertexStep.java:178)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.ExpandableStepIterator.next(ExpandableStepIterator.java:50)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.MapStep.processNextStart(MapStep.java:36)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.map.SelectStep.processNextStart(SelectStep.java:156)
+	at org.apache.tinkerpop.gremlin.process.traversal.step.util.AbstractStep.hasNext(AbstractStep.java:143)
+	at org.apache.tinkerpop.gremlin.process.traversal.util.DefaultTraversal.hasNext(DefaultTraversal.java:192)
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.lambda$initPartialTraversalState$0(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at grakn.core.graql.executor.util.LazyMergingStream$1.hasNext(LazyMergingStream.java:60)
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.lambda$initPartialTraversalState$0(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.fillBuffer(Unknown Source)
+	at java.util.stream.StreamSpliterators$AbstractWrappingSpliterator.doAdvance(Unknown Source)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.tryAdvance(Unknown Source)
+	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+	at grakn.core.server.rpc.SessionService$Iterators$BatchingIterator.iterateBatch(SessionService.java:562)
+	at grakn.core.server.rpc.SessionService$Iterators.startBatchIterating(SessionService.java:512)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:401)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:34:04,752 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:37:04,184 [grpc-request-handler-4] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:37:04,190 [grpc-request-handler-4] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:37:04,191 [grpc-request-handler-4] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 13:42:55,949 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $s isa section has instructor $i; get; offset 0; limit 30;
+                     ^
+no viable alternative at input 'match $s isa section has'
+syntax error at line 1: 
+match $s isa section has instructor $i; get; offset 0; limit 30;
+                     ^
+no viable alternative at input 'match $s isa section has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:07:59,345 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:14,023 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'professor' not found
+2020-07-25 14:08:14,026 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The session for graph [nimbus] is closed. Create a new session to interact with the graph.
+	at grakn.core.server.session.SessionImpl.transaction(SessionImpl.java:100)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:351)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:29,128 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:29,130 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:29,131 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:29,132 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:08:29,133 [grpc-request-handler-3] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:14:36,295 [main] INFO  grakn.core.server.Grakn - Grakn started in 1.913 s
+2020-07-25 14:14:49,611 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The client session with session ID [nimbusa84594d5-4984-4d5f-b37a-b2412770e9ba] was not found. Create a new session to interact with the graph.
+	at grakn.core.kb.server.exception.SessionException.sessionNotFound(SessionException.java:36)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:343)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 14:14:50,312 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.server.exception.SessionException: The client session with session ID [nimbusa84594d5-4984-4d5f-b37a-b2412770e9ba] was not found. Create a new session to interact with the graph.
+	at grakn.core.kb.server.exception.SessionException.sessionNotFound(SessionException.java:36)
+	at grakn.core.server.rpc.SessionService$TransactionListener.open(SessionService.java:343)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:234)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,489 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,492 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,501 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,505 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,508 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,510 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,511 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,511 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,515 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,517 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-25 15:23:19,519 [grpc-request-handler-5] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-26 11:43:15,571 [main] INFO  grakn.core.server.Grakn - Grakn started in 3.778 s
+2020-07-26 12:41:10,198 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'ProfessorOffice' not found
+2020-07-26 13:04:30,344 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-26 13:04:30,536 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-26 13:04:30,537 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-26 13:04:30,538 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-26 13:04:30,539 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-30 16:01:50,858 [main] INFO  grakn.core.server.Grakn - Grakn started in 6.223 s
+2020-08-01 16:26:43,092 [main] INFO  grakn.core.server.Grakn - Grakn started in 5.519 s
+2020-08-01 16:41:09,612 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+$x isa course, has description $y; get; offset 0; limit 30;
+^
+no viable alternative at input '$x'
+syntax error at line 1: 
+$x isa course, has description $y; get; offset 0; limit 30;
+^
+mismatched input '$x' expecting {'match', 'define', 'undefine', 'insert', 'compute'}
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 16:43:49,079 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name "Database Modeling, Design and Implementation." has description $y; get; offset 0; limit 30;
+                                                                                     ^
+no viable alternative at input 'match $x isa course, has course_name "Database Modeling, Design and Implementation." has'
+syntax error at line 1: 
+match $x isa course, has course_name "Database Modeling, Design and Implementation." has description $y; get; offset 0; limit 30;
+                                                                                     ^
+no viable alternative at input 'match $x isa course, has course_name "Database Modeling, Design and Implementation." has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 16:46:24,553 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:47:58,813 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:51:56,623 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:52:25,265 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:53:07,870 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:54:41,927 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:57:01,552 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:57:31,316 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:58:07,643 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:58:42,390 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:59:26,843 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 16:59:53,853 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:00:23,266 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:00:35,616 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:04:28,544 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:29:20,668 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:30:07,150 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:30:51,838 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:31:29,088 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:31:45,822 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:32:16,901 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:34:31,976 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:36:19,037 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 17:39:43,142 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-01 23:31:33,400 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:38,384 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:39,524 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:39,748 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:39,849 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:39,902 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-01 23:31:40,109 [grpc-request-handler-6] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 17:13:29,655 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.410 s
+2020-08-03 17:16:25,979 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+math $p isa professorOffice; get; offset 0; limit 30;
+^
+no viable alternative at input 'math'
+syntax error at line 1: 
+math $p isa professorOffice; get; offset 0; limit 30;
+^
+mismatched input 'math' expecting {'match', 'define', 'undefine', 'insert', 'compute'}
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,658 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,659 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-03 20:24:49,660 [grpc-request-handler-2] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+io.grpc.StatusRuntimeException: CANCELLED: cancelled before receiving half close
+	at io.grpc.Status.asRuntimeException(Status.java:524)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onCancel(ServerCalls.java:275)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closedInternal(ServerCallImpl.java:353)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.closed(ServerCallImpl.java:341)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1Closed.runInContext(ServerImpl.java:864)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-21 23:45:53,450 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.492 s
+2020-08-22 13:26:24,470 [main] INFO  grakn.core.server.Grakn - Grakn started in 3.004 s
+2020-08-22 13:30:40,417 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                            ^
+token recognition error at: '.'
+syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                      ^
+no viable alternative at input 'match $x isa course, has attribute "course", has Game Design'
+syntax error at line 1: 
+match $x isa course, has attribute "course", has Game Design. $y; get $y;
+                                                      ^
+no viable alternative at input 'match $x isa course, has attribute "course", has Game Design'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 13:31:23,815 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-22 13:31:45,038 [transaction-listener] WARN  g.c.g.g.t.StandardJanusGraphTx - Query requires iterating over all vertices [()]. For better performance, use indexes
+2020-08-22 20:53:46,983 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course has department $d; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+syntax error at line 1: 
+match $x isa course has department $d; get; offset 0; limit 30;
+                    ^
+no viable alternative at input 'match $x isa course has'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 20:58:54,817 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 50;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 50;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 20:59:47,325 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:00:06,387 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice, has reference-id $ref; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match $x (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice, has reference-id $ref; get; offset 0; limit 30;
+                                                   ^
+no viable alternative at input 'match $x (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:00:26,531 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'reference-id' not found
+2020-08-22 21:01:50,587 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 15;
+                                                ^
+no viable alternative at input 'match (officeOfProfessor: $o, professorOfOffice $p'
+syntax error at line 1: 
+match (officeOfProfessor: $o, professorOfOffice $p) isa professorOffice; get; offset 0; limit 15;
+                                                ^
+no viable alternative at input 'match (officeOfProfessor: $o, professorOfOffice $p'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:03:01,205 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'professorOffic' not found
+2020-08-22 21:34:21,626 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:34:30,040 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get $y; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:01,036 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:04,492 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”, has description $y; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-22 21:35:22,378 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                     ^
+token recognition error at: '“'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                                 ^
+token recognition error at: '”'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+syntax error at line 1: 
+match $x isa course, has course_name “Game Design”; get; offset 0; limit 30;
+                                      ^
+no viable alternative at input 'match $x isa course, has course_name Game'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2020-08-23 11:53:35,869 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.525 s
+2020-10-05 11:03:02,922 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.872 s
+2020-10-05 11:04:21,713 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+grakn.core.kb.graql.exception.GraqlSemanticException: label 'COURSE' not found
+2020-10-05 11:04:59,430 [transaction-listener] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+graql.lang.exception.GraqlException: syntax error at line 1: 
+match $x; get; offset 0; limit 30;
+        ^
+no viable alternative at input 'match $x;'
+syntax error at line 1: 
+match $x; get; offset 0; limit 30;
+        ^
+no viable alternative at input 'match $x;'
+	at graql.lang.exception.GraqlException.create(GraqlException.java:54)
+	at graql.lang.parser.Parser.parseQuery(Parser.java:114)
+	at graql.lang.parser.Parser.parseQueryEOF(Parser.java:122)
+	at graql.lang.Graql.parse(Graql.java:59)
+	at grakn.core.server.rpc.SessionService$TransactionListener.query(SessionService.java:372)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleIterRequest(SessionService.java:285)
+	at grakn.core.server.rpc.SessionService$TransactionListener.handleRequest(SessionService.java:240)
+	at grakn.core.server.rpc.SessionService$TransactionListener.lambda$onNext$1(SessionService.java:197)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
