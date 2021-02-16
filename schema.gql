@@ -29,7 +29,8 @@ section sub entity,
 	has	location,
 	has	department,
 
-	plays isSectionOfCourse;
+	plays isSectionOfCourse
+	plays isSectionOfProfessor;
 
 professor sub entity,
 	has first_name,
@@ -38,7 +39,8 @@ professor sub entity,
 	has research_interests,
 	has email,
 
-	plays professorOfOffice;
+	plays professorOfOffice,
+	plays professorOfSection;
 
 officeHours sub entity,
 	has office,
@@ -55,17 +57,17 @@ officeHours sub entity,
 
 	plays officeOfProfessor;
 
-
 professorOffice sub relation,
 	relates officeOfProfessor,
 	relates professorOfOffice;
 
+professorSection sub relation,
+	relates professorOfSection,
+	relates isSectionOfProfessor;
 
 sectionOfCourse sub relation,
 	relates isCourseOfSection,
 	relates isSectionOfCourse;
-
-
 
 department sub attribute,
 	value string;
