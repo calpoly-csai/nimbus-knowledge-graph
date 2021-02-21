@@ -1,12 +1,15 @@
 from grakn.client import GraknClient
 import pandas as pd
 
+# Command to load the new schema into the calpoly keyspace (make sure you are in grakn directory)
+# grakn.bat console --keyspace calpoly -f C:\Users\dando\Desktop\CPE\CSAI\calpoly-knowledge-graph\schema.gql
+
 name_of_type = "Courses.csv"
 
 df = pd.read_csv(name_of_type)
 
 with GraknClient(uri="localhost:48555") as client:
-	with client.session(keyspace="nimbus") as session:
+	with client.session(keyspace="calpoly") as session:
 		## Insert a Person using a WRITE transaction
 		with session.transaction().write() as write_transaction:
 			for index, current_row in df.iterrows():
@@ -14,7 +17,6 @@ with GraknClient(uri="localhost:48555") as client:
 				department = current_row["DEPT"]
 				course_name = current_row["COURSE_NAME"]
 				course_title = current_row["COURSE_TITLE"]
-				print(course_title)
 				units = current_row["UNITS"]
 				prerequisites = current_row["PREREQUISITES"]
 				corequisites = current_row["COREQUISITES"]
@@ -39,7 +41,8 @@ with GraknClient(uri="localhost:48555") as client:
 									has description "{}";
 								""".format(department, course_name, course_title, 
 									units, prerequisites, corequisites, 
-									concurrent, recommended, terms_offered, ge_areas, description)
+									concurrent, recommended, terms_offered, 
+									ge_areas, description)
 
 				print(queryToInsert)
 
