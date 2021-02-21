@@ -2,14 +2,14 @@ define
 
 course sub entity,
 	has department,
-	has course_num,
-	has terms_offered,
-	has units,
 	has course_name,
-	has concurrent,
-	has corequisites,
-	has recommended,
+	has course_title,
+	has units,
 	has prerequisites,
+	has corequisites,
+	has concurrent,
+	has recommended,
+	has terms_offered,
 	has ge_areas,
 	has description,
 
@@ -29,8 +29,7 @@ section sub entity,
 	has	location,
 	has	department,
 
-	plays isSectionOfCourse
-	plays isSectionOfProfessor;
+	plays isSectionOfCourse;
 
 professor sub entity,
 	has first_name,
@@ -39,8 +38,7 @@ professor sub entity,
 	has research_interests,
 	has email,
 
-	plays professorOfOffice,
-	plays professorOfSection;
+	plays professorOfOffice;
 
 officeHours sub entity,
 	has office,
@@ -57,17 +55,17 @@ officeHours sub entity,
 
 	plays officeOfProfessor;
 
+
 professorOffice sub relation,
 	relates officeOfProfessor,
 	relates professorOfOffice;
 
-professorSection sub relation,
-	relates professorOfSection,
-	relates isSectionOfProfessor;
 
 sectionOfCourse sub relation,
 	relates isCourseOfSection,
 	relates isSectionOfCourse;
+
+
 
 department sub attribute,
 	value string;
