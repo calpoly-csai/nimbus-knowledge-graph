@@ -2,21 +2,22 @@ define
 
 course sub entity,
 	has department,
-	has course_num,
-	has terms_offered,
-	has units,
 	has course_name,
-	has concurrent,
-	has corequisites,
-	has recommended,
+	has course_title,
+	has units,
 	has prerequisites,
+	has corequisites,
+	has concurrent,
+	has recommended,
+	has terms_offered,
 	has ge_areas,
 	has description,
 
 	plays isCourseOfSection;
 
 section sub entity,
-	has section_name,
+	has course_name,
+	has section_number,
 	has instructor,
 	has	alias,
 	has	title,
@@ -34,9 +35,12 @@ section sub entity,
 professor sub entity,
 	has first_name,
 	has last_name,
-	has phone_number,
-	has research_interests,
+	has title,
+	has phone,
+	# has research_interests,
+	has alias,
 	has email,
+	has office,
 
 	plays professorOfOffice;
 
@@ -82,6 +86,9 @@ units sub attribute,
 course_name sub attribute,
 	value string;
 
+course_title sub attribute,
+	value string;
+
 concurrent sub attribute,
 	value string;
 
@@ -101,6 +108,9 @@ description sub attribute,
 	value string;
 
 section_name sub attribute,
+	value string;
+
+section_number sub attribute,
 	value string;
 
 instructor sub attribute,
@@ -139,10 +149,13 @@ first_name sub attribute,
 last_name sub attribute,
 	value string;
 
-phone_number sub attribute,
-	value string;
+# phone_number sub attribute,
+# 	value string;
 
-research_interests sub attribute,
+# research_interests sub attribute,
+# 	value string;
+
+alias sub attribute,
 	value string;
 
 email sub attribute,

@@ -6,7 +6,7 @@ name_of_type = "Professors.csv"
 df = pd.read_csv(name_of_type)
 
 with GraknClient(uri="localhost:48555") as client:
-	with client.session(keyspace="nimbus") as session:
+	with client.session(keyspace="calpoly") as session:
 		## Insert a Person using a WRITE transaction
 		with session.transaction().write() as write_transaction:
 			for index, current_row in df.iterrows():
