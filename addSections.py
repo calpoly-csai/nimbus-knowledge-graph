@@ -33,6 +33,10 @@ with GraknClient(uri="localhost:48555") as client:
 								""".format(first_name, last_name, title, phone, 
 										alias, email, office)
 
+				insert_iterator = write_transaction.query(professorQuery).get()
+				concepts = [ans.get("x") for ans in insert_iterator]
+				print("Inserted a professor with ID: {0}".format(concepts[0].id))
+
 				# Section-only info
 				course_name = current_row["COURSE_NAME"]
 				section_number = current_row["SECTION_NUMBER"]
@@ -48,9 +52,10 @@ with GraknClient(uri="localhost:48555") as client:
 				location = current_row["LOCATION"]
 				department = current_row["DEPT"]
 
-				queryToInsert = """
+				sectionQuery = """
 								insert $x isa section,
-									has section_name "{}",
+									has course_name "{}",
+									has section_number "{}",
 									has instructor "{}",
 									has	alias "{}",
 									has	title "{}",
@@ -62,9 +67,12 @@ with GraknClient(uri="localhost:48555") as client:
 									has	end "{}",
 									has	location "{}",
 									has	department "{}";
-								""".format(section_name, instructor, alias, title, phone, office, section_type, days, start, end, location, department)
+								""".format(course_name, section_number, 
+										instructor, alias, title, phone, office, 
+										section_type, days, start, end, location, 
+										department)
 
-				insert_iterator = write_transaction.query(queryToInsert).get()
+				insert_iterator = write_transaction.query(sectionQuery).get()
 				concepts = [ans.get("x") for ans in insert_iterator]
 				print("Inserted a section with ID: {0}".format(concepts[0].id))
 				## to persist changes, write transaction must always be committed (closed)

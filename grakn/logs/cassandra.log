@@ -154,3 +154,6 @@ INFO  [Native-Transport-Requests-31] 2021-02-21 11:23:20,067 MigrationManager.ja
 INFO  [MigrationStage:1] 2021-02-21 11:23:20,210 ColumnFamilyStore.java:411 - Initializing list.janusgraph_ids
 INFO  [Native-Transport-Requests-13] 2021-02-21 11:24:17,691 MigrationManager.java:503 - Drop Keyspace 'list'
 INFO  [IndexSummaryManager:1] 2021-02-21 11:54:00,145 IndexSummaryRedistribution.java:77 - Redistributing index summaries
+INFO  [IndexSummaryManager:1] 2021-02-21 12:54:00,163 IndexSummaryRedistribution.java:77 - Redistributing index summaries
+INFO  [Service Thread] 2021-02-21 13:06:46,501 GCInspector.java:284 - MarkSweepCompact GC in 221ms.  Survivor Space: 1910072 -> 0; Tenured Gen: 65557936 -> 43336976
+INFO  [Service Thread] 2021-02-21 13:06:46,510 StatusLogger.java:47 - Pool Name                    Active   Pending      Completed   Blocked  All Time Blocked
