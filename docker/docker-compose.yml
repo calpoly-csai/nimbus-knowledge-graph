@@ -1,0 +1,18 @@
+version: '3'
+services:
+  grakn:
+    image: graknlabs/grakn:1.8.4
+    ports:
+      - "1729:1729"
+      - "48555:48555"
+    volumes:
+      - database:/grakn-core-all-linux/server/db
+    container_name: "grakn"
+
+volumes:
+  database:
+    driver: local
+    driver_opts: 
+      type: none
+      device: ./grakn_data
+      o: bind
