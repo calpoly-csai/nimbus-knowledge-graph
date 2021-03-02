@@ -348,3 +348,23 @@ Caused by: grakn.core.kb.concept.api.GraknConceptException: The type [course] is
 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
 	at java.util.concurrent.FutureTask.run(Unknown Source)
 	... 3 common frames omitted
+2021-02-28 12:35:53,525 [main] INFO  grakn.core.server.Grakn - Grakn started in 2.373 s
+2021-03-01 16:48:36,982 [main] INFO  grakn.core.server.Grakn - Grakn started in 1.869 s
+2021-03-01 22:40:01,841 [main] INFO  grakn.core.server.Grakn - Grakn started in 1.950 s
+2021-03-01 22:44:28,622 [grpc-request-handler-15] ERROR g.c.s.r.SessionService$TransactionListener - Runtime Exception in RPC TransactionListener: 
+java.util.concurrent.ExecutionException: grakn.core.kb.graql.exception.GraqlSemanticException: latitude doesn't have an 'isa', a 'sub' or an 'id'
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at grakn.core.server.rpc.SessionService$TransactionListener.process(SessionService.java:319)
+	at grakn.core.server.rpc.SessionService$TransactionListener.onNext(SessionService.java:196)
+	at grakn.core.server.rpc.SessionService$TransactionListener.onNext(SessionService.java:156)
+	at io.grpc.stub.ServerCalls$StreamingServerCallHandler$StreamingServerCallListener.onMessage(ServerCalls.java:251)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.messagesAvailableInternal(ServerCallImpl.java:309)
+	at io.grpc.internal.ServerCallImpl$ServerStreamListenerImpl.messagesAvailable(ServerCallImpl.java:292)
+	at io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1MessagesAvailable.runInContext(ServerImpl.java:779)
+	at io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37)
+	at io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:123)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: grakn.core.kb.graql.exception.GraqlSemanticException: latitude doesn't have an 'isa', a 'sub' or an 'id'
