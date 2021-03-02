@@ -59,6 +59,12 @@ officeHours sub entity,
 
 	plays officeOfProfessor;
 
+building sub entity,
+	has building_number,
+	has building_name,
+	has longitude,
+	has latitude;
+
 
 professorOffice sub relation,
 	relates officeOfProfessor,
@@ -189,4 +195,16 @@ platform sub attribute,
 	value string;
 
 latest_quarter sub attribute,
+	value string;
+
+building_number sub attribute,
+	value string;
+
+building_name sub attribute,
+	value string;
+
+longitude sub attribute,
+	value string;
+
+latitude sub attribute,
 	value string;
